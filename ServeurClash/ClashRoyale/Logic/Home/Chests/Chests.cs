@@ -87,7 +87,7 @@ namespace ClashRoyale.Logic.Home.Chests
             {
                 if (type == Chest.ChestType.Shop)
                 {
-                    for (var i = 0; i < random.Next(1, 4); i++)
+                    for (var i = 0; i < random.Next(1, 10); i++)
                         if (random.Next(1, 2) == 1)
                         {
                             var card = Cards.RandomByArena(Card.Rarity.Rare, chestArenas);
@@ -140,13 +140,13 @@ namespace ClashRoyale.Logic.Home.Chests
             {
                 if (type == Chest.ChestType.Shop)
                 {
-                    for (var i = 0; i < random.Next(10, 60); i++)
-                        if (random.Next(1, 3) == 1)
+                    for (var i = 0; i < random.Next(1, 5); i++)
+                        if (random.Next(1, 2) == 1)
                         {
                             var card = Cards.RandomByArena(Card.Rarity.Epic, chestArenas);
                             if (card == null) continue;
 
-                            card.Count = (random.Next(1, 60));
+                            card.Count = (random.Next(1, 30));
                             card.IsNew = true;
                             chest.Add(card);
                             Home.Deck.Add(card);

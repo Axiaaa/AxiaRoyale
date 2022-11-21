@@ -6,6 +6,7 @@ using ClashRoyale.Extensions;
 using ClashRoyale.Logic.Battle;
 using ClashRoyale.Logic.Home.StreamEntry;
 using ClashRoyale.Protocol.Messages.Server;
+using ClashRoyale.Protocol.Commands.Client;
 using ClashRoyale.Utilities.Netty;
 using ClashRoyale.Utilities.Utils;
 using DotNetty.Buffers;
@@ -15,6 +16,7 @@ using ClashRoyale.Core.Leaderboards;
 using NLog.LayoutRenderers;
 using ClashRoyale.Logic.Home;
 using System.Runtime.CompilerServices;
+
 
 namespace ClashRoyale.Logic
 {
@@ -34,7 +36,7 @@ namespace ClashRoyale.Logic
 
         [JsonIgnore] public LogicBattle Battle { get; set; }
         [JsonIgnore] public Device Device { get; set; }
-
+        
 
         public void RankingEntry(IByteBuffer packet)
         {
@@ -227,9 +229,12 @@ namespace ClashRoyale.Logic
                     packet.WriteScString("{\"ID\":\"CLAN_CHEST\",\"Params\":{}}");
                 }
 
-               
+
+
+             
                 
-                    packet.WriteVInt(8);
+
+                    packet.WriteVInt(4);
 
                     // Chests
                     {

@@ -56,6 +56,8 @@ namespace ClashRoyale.Core.Leaderboards
                     var currentGlobalAllianceRanking = await AllianceDb.GetGlobalAlliancesAsync();
                     for (var i = 0; i < currentGlobalAllianceRanking.Count; i++)
                         GlobalAllianceRanking.UpdateOrInsert(i, currentGlobalAllianceRanking[i]);
+
+                                     
                 }
                 catch (Exception exception)
                 {

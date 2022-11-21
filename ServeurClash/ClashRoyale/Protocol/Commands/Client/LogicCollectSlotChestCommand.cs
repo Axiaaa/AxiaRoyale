@@ -12,7 +12,7 @@ using ClashRoyale.Logic.Home.Chests;
 using System.Diagnostics;
 
 namespace ClashRoyale.Protocol.Commands.Client
-{
+{   
     public class LogicCollectSlotChestCommand : LogicCommand
     {
         public LogicCollectSlotChestCommand(Device device, IByteBuffer buffer) : base(device, buffer)
@@ -21,6 +21,7 @@ namespace ClashRoyale.Protocol.Commands.Client
         }
         public override void Decode()
         {
+            
             var chestID = 8;
             base.Decode();
 
@@ -28,19 +29,20 @@ namespace ClashRoyale.Protocol.Commands.Client
 
             chestID = Reader.ReadVInt();
             Console.WriteLine($"[Debug] [C] Slot Chest opened by {Device.Player.Home.Name}, {Device.Player.Home.Id} ");
+            
         }
         public override async void Process()
         {
             var home = Device.Player.Home;
-
+            
             await new AvailableServerCommand(Device)
-            {
+            {   
                 Command = new ChestDataCommand(Device)
-                {
+                {       
                     Chest = Device.Player.Home.Chests.BuyChest(1, Chest.ChestType.Slot)
                 }
             }.SendAsync();
-
+            
         }
     }
 }

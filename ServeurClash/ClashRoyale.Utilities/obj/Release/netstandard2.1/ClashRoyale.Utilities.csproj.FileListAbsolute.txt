@@ -1,0 +1,20 @@
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\bin\Release\netstandard2.1\ClashRoyale.Utilities.deps.json
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\bin\Release\netstandard2.1\ClashRoyale.Utilities.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\bin\Release\netstandard2.1\ClashRoyale.Utilities.pdb
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.csproj.AssemblyReference.cache
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.AssemblyInfoInputs.cache
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.AssemblyInfo.cs
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.csproj.CoreCompileInputs.cache
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\bin\Release\netstandard2.1\ClashRoyale.Utilities.deps.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\bin\Release\netstandard2.1\ClashRoyale.Utilities.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\bin\Release\netstandard2.1\ClashRoyale.Utilities.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.csproj.AssemblyReference.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.AssemblyInfoInputs.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.AssemblyInfo.cs
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Release\netstandard2.1\ClashRoyale.Utilities.pdb

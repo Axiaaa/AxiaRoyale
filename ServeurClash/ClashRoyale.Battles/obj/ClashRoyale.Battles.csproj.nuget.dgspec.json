@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Battles\\ClashRoyale.Battles.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Battles\\ClashRoyale.Battles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Battles\\ClashRoyale.Battles.csproj",
+        "projectName": "ClashRoyale.Battles",
+        "projectPath": "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Battles\\ClashRoyale.Battles.csproj",
+        "packagesPath": "C:\\Users\\hcame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Battles\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hcame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Utilities\\ClashRoyale.Utilities.csproj": {
+                "projectPath": "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Utilities\\ClashRoyale.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DotNetty.Common": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "DotNetty.Handlers": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.7, )"
+            },
+            "SharpRaven": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Utilities\\ClashRoyale.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Utilities\\ClashRoyale.Utilities.csproj",
+        "projectName": "ClashRoyale.Utilities",
+        "projectPath": "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Utilities\\ClashRoyale.Utilities.csproj",
+        "packagesPath": "C:\\Users\\hcame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hcame\\OneDrive\\Bureau\\Documents\\Master Royale\\Serveur privé public\\Test-Royale\\Ventilo\\ServeurClash\\ClashRoyale.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hcame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "DotNetty.Buffers": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

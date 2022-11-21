@@ -1,0 +1,16 @@
+{
+  "cluster_encryption_key": "15uvmi8qnyuj9tm53ipaavvytltm582yatecyjzb",
+  "cluster_encryption_nonce": "nonce",
+  "cluster_server_port": 9876,
+  "encryption_key": "fhsd6f86f67rt8fw78fw789we78r9789wer6re",
+  "mysql_database": " sql7557869",
+  "mysql_password": "WRz53kwUqe",
+  "mysql_server": "sql7.freemysqlhosting.net",
+  "mysql_user": " sql7557869",
+  "patch_url": "",
+  "sentry_api": "",
+  "server_port": 9339,
+  "update_url": "https://github.com/retroroyale/ClashRoyale",
+  "use_content_patch": false,
+  "use_udp": false
+}

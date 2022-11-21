@@ -1,0 +1,10 @@
+[19:38:15.4346][ERROR]  ->  MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '3' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Common.DbCommand.ExecuteNonQueryAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at ClashRoyale.Database.PlayerDb.ExecuteAsync(MySqlCommand cmd) in N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\Database\PlayerDb.cs:line 61

@@ -1,0 +1,8 @@
+{
+  "battle_nonce": "nonce",
+  "cluster_encryption_key": "15uvmi8qnyuj9tm53ipaavvytltm582yatecyjzb",
+  "cluster_encryption_nonce": "nonce",
+  "max_sessions": 100,
+  "sentry_api": "",
+  "server_port": 9449
+}

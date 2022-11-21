@@ -1,0 +1,28 @@
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.exe
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.deps.json
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.runtimeconfig.json
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.runtimeconfig.dev.json
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.dll
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.pdb
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.csproj.AssemblyReference.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.GeneratedMSBuildEditorConfig.editorconfig
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.AssemblyInfoInputs.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.AssemblyInfo.cs
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.csproj.CoreCompileInputs.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.dll
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.pdb
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.genruntimeconfig.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.exe
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.deps.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.runtimeconfig.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.runtimeconfig.dev.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\bin\Debug\netcoreapp3.1\ClashRoyale.Simulator.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.csproj.AssemblyReference.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.AssemblyInfoInputs.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.AssemblyInfo.cs
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.csproj.CoreCompileInputs.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Simulator\obj\Debug\netcoreapp3.1\ClashRoyale.Simulator.genruntimeconfig.cache

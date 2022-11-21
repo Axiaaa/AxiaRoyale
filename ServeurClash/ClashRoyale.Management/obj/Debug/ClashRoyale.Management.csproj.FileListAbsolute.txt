@@ -1,0 +1,32 @@
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\bin\Debug\ClashRoyale.Management.exe.config
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\bin\Debug\ClashRoyale.Management.exe
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\bin\Debug\ClashRoyale.Management.pdb
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.AssemblyReference.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.SuggestedBindingRedirects.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\MainWindow.g.cs
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\App.g.cs
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management_MarkupCompile.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management_MarkupCompile.lref
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\MainWindow.baml
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.g.resources
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.Properties.Resources.resources
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.GenerateResource.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.CoreCompileInputs.cache
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.exe
+N:\Download\Test-Royale\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\bin\Debug\ClashRoyale.Management.exe.config
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\bin\Debug\ClashRoyale.Management.exe
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\bin\Debug\ClashRoyale.Management.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.AssemblyReference.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\MainWindow.g.cs
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\App.g.cs
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management_MarkupCompile.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management_MarkupCompile.lref
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\MainWindow.baml
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.g.resources
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.Properties.Resources.resources
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.GenerateResource.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.csproj.CoreCompileInputs.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.exe
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Management\obj\Debug\ClashRoyale.Management.pdb

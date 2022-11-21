@@ -1,0 +1,5 @@
+Name,TID,Resource,Amount,IconFile
+String,String,String,int,string
+,,,,
+Gold2,TID_RESOURCE_PACK_GOLD_MEDIUM,Gold,100000,shop_gold02
+Gold3,TID_RESOURCE_PACK_GOLD_BIG,Gold,10000000,shop_gold03

@@ -1,0 +1,710 @@
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\background_decos.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\billing_packages.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\client_globals.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\credits.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\effects.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\event_output.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\health_bars.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\helpshift.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\hints.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\music.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\news.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\particle_emitters.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\sounds.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\texts.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\texts_patch.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\abilities.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\achievements.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\alliance_badges.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\alliance_roles.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\area_effect_objects.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\arenas.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\buildings.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\characters.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\character_buffs.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\chest_order.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\configuration_definitions.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\content_tests.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\decos.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\draft_deck.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_categories.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_category_definitions.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_category_enums.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_category_object_definitions.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_targeting_definitions.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\exp_levels.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\gamble_chests.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\game_modes.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\globals.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\heroes.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\locales.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\locations.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\npcs.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\predefined_decks.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\projectiles.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\pve_boss.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\pve_gamemodes.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\pve_waves.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\quest_order.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\rarities.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\regions.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\resources.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\resource_packs.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\shop.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\skins.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_buildings.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_characters.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_heroes.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_other.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spell_sets.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\survival_modes.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\taunts.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tournament_tiers.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\treasure_chests.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tutorials_home.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tutorials_npc.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tutorial_chest_order.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tve_gamemodes.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\database.sql
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\fingerprint.json
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\barbarian_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\barbarian_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\bone_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\bone_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\builder_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\builder_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\champion_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\champion_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\dark_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\dark_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\goblin_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\goblin_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\ice_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\ice_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\jungle_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\jungle_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\legendary_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\legendary_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\royal_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\royal_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\spell_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\spell_arena_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\tilemap_pve.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\titan_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena_pve.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena_pve1.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena_tve.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\arena_training.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\arena_training_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_barbarian_hut.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_barbarian_hut_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_barbarian_hut_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_basic_cannon.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_basic_cannon_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_basic_cannon_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_bomb_tower.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_bomb_tower_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_bomb_tower_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_elixir_collector.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_elixir_collector_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_elixir_collector_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_firespirit_hut.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_firespirit_hut_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_firespirit_hut_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_goblin_hut.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_goblin_hut_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_inferno_tower.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_inferno_tower_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_inferno_tower_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mega_bomb.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mega_bomb_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mortar.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mortar_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mortar_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_rage_bottle.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_rage_bottle_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tesla.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tesla_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tesla_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tombstone.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tombstone_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tombstone_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tower.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tower_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_xbow.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_xbow_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_xbow_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_archer.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_archer_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_axe_man.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_axe_man_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_axe_man_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_baby_dragon.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_baby_dragon_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_balloon.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_balloon_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_balloon_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bandit.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bandit_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_barbarian.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_barbarian_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_barbarian_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bats.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bats_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_battle_ram.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_battle_ram_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_battle_ram_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_black_knight.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_black_knight_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_black_knight_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bomber.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bomber_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bowler.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bowler_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bowler_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_dark_witch.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_dark_witch_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_dark_witch_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_electro_wizard.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_electro_wizard_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_electro_wizard_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_fire_firespirit.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_fire_firespirit_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_flying_machine.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_flying_machine_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_flying_machine_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant_skeleton.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant_skeleton_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_archer.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_archer_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_blowdart.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_blowdart_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_blowdart_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golem.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golemite.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golemite_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golemite_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golem_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golem_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_hog_rider.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_hog_rider_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_hog_rider_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_spirits.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_spirits_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_wizard.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_wizard_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_knight.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_knight_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_hound.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_hound_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_pups.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_pups_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_knight.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_knight_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_knight_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_minion.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_minion_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_minion_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_miner.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_miner_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_minion.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_minion_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mini_pekka.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mini_pekka_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_movingcannon.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_movingcannon_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_movingcannon_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_musketeer.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_musketeer_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_pekka.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_pekka_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_prince.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_princess.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_princess_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_princess_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_prince_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_rage_barbarian.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_rage_barbarian_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_rage_barbarian_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_royal_giant.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_royal_giant_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_royal_giant_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_balloon.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_balloon_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_balloon_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_warrior.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_warrior_highres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_warrior_lowres_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_snowman.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_snowman_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_valkyrie.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_valkyrie_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_witch.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_witch_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_wizard.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_wizard_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_zap_machine.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_zap_machine_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\debug.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\debug_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\effects.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\effects_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_barbarian_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_barbarian_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_bone_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_bone_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_builder_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_builder_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_champion_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_champion_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_dark_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_dark_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_decos.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_decos_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_goblin_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_goblin_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_ice_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_ice_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_jungle_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_jungle_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_legendary_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_legendary_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_royal_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_royal_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_spell_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_spell_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\loading.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\loading_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\spell_goblin_barrel.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\spell_goblin_barrel_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\tutorial.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\tutorial_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_arena.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_arena_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_battle_end.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_battle_end_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_chest.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_chest_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_spells.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_spells_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_tex.sc
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_2v2.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_pve.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_pve1.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_tve.csv
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\NLog.config
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.exe
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.deps.json
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.runtimeconfig.json
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.runtimeconfig.dev.json
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.pdb
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Buffers.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Codecs.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Common.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Handlers.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Transport.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\SevenZip.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\MySql.Data.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\NLog.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\SharpRaven.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.Utilities.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.Utilities.pdb
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.csproj.AssemblyReference.cache
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.GeneratedMSBuildEditorConfig.editorconfig
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.AssemblyInfoInputs.cache
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.AssemblyInfo.cs
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.csproj.CoreCompileInputs.cache
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.csproj.CopyComplete
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.dll
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.pdb
+N:\Download\Test-Royale\ClashRoyale\src\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.genruntimeconfig.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\background_decos.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\client_globals.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\effects.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\event_output.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\health_bars.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\helpshift.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\hints.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\music.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\news.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\particle_emitters.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\sounds.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\texts_patch.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\abilities.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\achievements.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\alliance_badges.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\alliance_roles.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\chest_order.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\configuration_definitions.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\content_tests.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\decos.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\draft_deck.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_categories.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_category_definitions.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_category_enums.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_category_object_definitions.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\event_targeting_definitions.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\exp_levels.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\gamble_chests.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\game_modes.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\heroes.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\locales.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\locations.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\npcs.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\predefined_decks.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\pve_boss.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\pve_gamemodes.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\pve_waves.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\quest_order.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\rarities.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\regions.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\skins.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_heroes.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spell_sets.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\survival_modes.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\taunts.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tournament_tiers.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\treasure_chests.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tutorials_home.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tutorials_npc.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tutorial_chest_order.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\tve_gamemodes.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\database.sql
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\fingerprint.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\barbarian_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\barbarian_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\bone_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\bone_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\builder_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\builder_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\champion_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\champion_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\dark_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\dark_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\goblin_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\goblin_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\ice_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\ice_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\jungle_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\jungle_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\legendary_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\legendary_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\royal_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\royal_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\spell_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\spell_arena_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\tilemap_pve.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\titan_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena_pve.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena_pve1.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\locations\training_arena_tve.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\arena_training.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\arena_training_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_barbarian_hut.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_barbarian_hut_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_barbarian_hut_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_basic_cannon.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_basic_cannon_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_basic_cannon_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_bomb_tower.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_bomb_tower_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_bomb_tower_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_elixir_collector.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_elixir_collector_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_elixir_collector_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_firespirit_hut.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_firespirit_hut_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_firespirit_hut_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_goblin_hut.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_goblin_hut_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_inferno_tower.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_inferno_tower_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_inferno_tower_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mega_bomb.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mega_bomb_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mortar.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mortar_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_mortar_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_rage_bottle.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_rage_bottle_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tesla.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tesla_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tesla_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tombstone.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tombstone_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tombstone_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tower.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_tower_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_xbow.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_xbow_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\building_xbow_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_archer.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_archer_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_axe_man.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_axe_man_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_axe_man_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_baby_dragon.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_baby_dragon_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_balloon.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_balloon_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_balloon_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bandit.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bandit_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_barbarian.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_barbarian_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_barbarian_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bats.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bats_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_battle_ram.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_battle_ram_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_battle_ram_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_black_knight.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_black_knight_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_black_knight_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bomber.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bomber_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bowler.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bowler_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_bowler_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_dark_witch.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_dark_witch_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_dark_witch_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_electro_wizard.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_electro_wizard_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_electro_wizard_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_fire_firespirit.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_fire_firespirit_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_flying_machine.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_flying_machine_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_flying_machine_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant_skeleton.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant_skeleton_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_giant_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_archer.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_archer_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_blowdart.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_blowdart_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_blowdart_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_goblin_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golem.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golemite.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golemite_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golemite_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golem_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_golem_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_hog_rider.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_hog_rider_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_hog_rider_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_spirits.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_spirits_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_wizard.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_ice_wizard_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_knight.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_knight_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_hound.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_hound_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_pups.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_lava_pups_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_knight.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_knight_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_knight_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_minion.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_minion_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mega_minion_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_miner.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_miner_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_minion.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_minion_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mini_pekka.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_mini_pekka_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_movingcannon.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_movingcannon_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_movingcannon_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_musketeer.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_musketeer_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_pekka.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_pekka_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_prince.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_princess.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_princess_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_princess_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_prince_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_rage_barbarian.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_rage_barbarian_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_rage_barbarian_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_royal_giant.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_royal_giant_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_royal_giant_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_balloon.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_balloon_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_balloon_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_warrior.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_warrior_highres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_skeleton_warrior_lowres_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_snowman.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_snowman_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_valkyrie.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_valkyrie_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_witch.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_witch_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_wizard.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_wizard_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_zap_machine.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\chr_zap_machine_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\debug.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\debug_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\effects.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\effects_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_barbarian_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_barbarian_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_bone_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_bone_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_builder_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_builder_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_champion_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_champion_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_dark_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_dark_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_decos.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_decos_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_goblin_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_goblin_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_ice_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_ice_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_jungle_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_jungle_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_legendary_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_legendary_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_royal_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_royal_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_spell_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\level_spell_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\loading.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\loading_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\spell_goblin_barrel.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\spell_goblin_barrel_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\tutorial.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\tutorial_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_arena.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_arena_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_battle_end.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_battle_end_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_chest.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_chest_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_spells.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_spells_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\sc\ui_tex.sc
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_2v2.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_pve.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_pve1.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\tilemaps\tilemap_tve.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\NLog.config
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\billing_packages.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\credits.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_client\texts.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\area_effect_objects.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\arenas.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\buildings.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\characters.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\character_buffs.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\globals.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\projectiles.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\resources.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\resource_packs.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\shop.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_buildings.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_characters.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\GameAssets\csv_logic\spells_other.csv
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.exe
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.deps.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.runtimeconfig.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.runtimeconfig.dev.json
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Buffers.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Codecs.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Common.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Handlers.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\DotNetty.Transport.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\SevenZip.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\NLog.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\SharpRaven.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.Utilities.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\bin\Release\netcoreapp3.1\ClashRoyale.Utilities.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.csproj.AssemblyReference.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.AssemblyInfoInputs.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.AssemblyInfo.cs
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.csproj.CoreCompileInputs.cache
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.csproj.CopyComplete
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.dll
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.pdb
+C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\obj\Release\netcoreapp3.1\ClashRoyale.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+[11:34:11.4911][INFO]  ->  Starting [11:34:11 - Windows]...
+[11:34:11.6410][INFO]  ->  Fingerprint [v3.830.6] loaded.
+[11:34:11.8533][INFO]  ->  52 Gamefiles loaded.
+[11:34:12.3845][INFO]  ->  MysqlConnection for players failed [sql7.freemysqlhosting.net]!

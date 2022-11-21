@@ -1,0 +1,3 @@
+[14:15:24.4447][INFO]  ->  Starting [14:15:24 - Windows]...
+[14:15:24.8236][INFO]  ->  Fingerprint [v3.830.6] loaded.
+[14:15:25.0621][INFO]  ->  52 Gamefiles loaded.

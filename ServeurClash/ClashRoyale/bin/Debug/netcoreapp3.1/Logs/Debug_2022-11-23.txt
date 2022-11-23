@@ -1,0 +1,199 @@
+[17:13:03.8661][DEBUG]  ->  Client 25.18.56.67:62792 connected.
+[17:13:04.1902][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[17:13:04.3028][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[17:13:04.3140][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[17:13:04.3140][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[17:13:04.3658][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[17:13:04.3699][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[17:13:06.8631][DEBUG]  ->  Player 10 saved in 146ms.
+[17:13:06.9250][DEBUG]  ->  Alliance 2 saved in 58ms.
+[17:13:06.9250][DEBUG]  ->  Client 25.18.56.67:62792 disconnected.
+[17:13:12.5666][DEBUG]  ->  Client 25.18.56.67:62810 connected.
+[17:13:12.6374][DEBUG]  ->  Successfully got player 10 from cache in 0ms
+[17:13:12.6374][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[17:13:12.7023][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[17:13:12.7023][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[17:13:12.7023][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[17:13:12.7023][DEBUG]  ->  Successfully got alliance 2 from cache in 0ms
+[17:13:12.7023][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[17:13:12.7117][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[17:13:13.7240][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[17:13:13.7295][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[17:13:13.7451][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:13.7451][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:13.7451][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:13.7451][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[17:13:13.7657][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[17:13:13.7657][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[17:13:13.9959][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:13.9959][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:13.9959][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[17:13:18.4840][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:18.4840][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:18.4840][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:18.4994][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:18.4994][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:21.0960][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[17:13:21.0960][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[17:13:21.1357][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:13:23.4868][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:23.4868][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:23.4868][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:23.5033][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:23.5033][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:23.8929][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:13:26.5818][DEBUG]  ->  [S] Message 24115 (ServerErrorMessage) sent.
+[17:13:26.5818][DEBUG]  ->  [C] Message 14315 (ChatToAllianceStreamMessage) handled.
+[17:13:27.0259][DEBUG]  ->  Player 10 saved in 69ms.
+[17:13:27.0720][DEBUG]  ->  Alliance 2 saved in 43ms.
+[17:13:27.0720][DEBUG]  ->  Client 25.18.56.67:62810 disconnected.
+[17:13:29.3185][DEBUG]  ->  Client 25.18.56.67:62817 connected.
+[17:13:29.3352][DEBUG]  ->  Successfully got player 10 from cache in 0ms
+[17:13:29.3352][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[17:13:29.3988][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[17:13:29.3988][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[17:13:29.3988][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[17:13:29.3988][DEBUG]  ->  Successfully got alliance 2 from cache in 0ms
+[17:13:29.3988][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[17:13:29.3988][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[17:13:29.8576][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[17:13:29.8576][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[17:13:29.8576][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:29.8576][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:29.8576][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:29.8576][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[17:13:29.8689][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[17:13:29.8689][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[17:13:29.9856][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:29.9856][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:34.7611][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:34.7611][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:34.7611][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:34.7780][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:34.7780][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:39.7630][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:39.7630][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:39.7630][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:39.7798][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:39.7798][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:39.8980][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:13:44.7706][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:44.7725][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:44.7725][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:44.7725][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:44.7895][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:49.7853][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:49.7892][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:49.7892][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:49.7892][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:49.8054][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:49.8870][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:13:59.2122][DEBUG]  ->  Client 25.18.56.67:62843 connected.
+[17:13:59.3828][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[17:13:59.4603][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[17:13:59.4603][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[17:13:59.4603][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[17:13:59.5242][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[17:13:59.5242][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[17:13:59.7760][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[17:13:59.7760][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[17:13:59.7760][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:59.7760][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:13:59.7760][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:13:59.7878][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[17:13:59.7878][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[17:13:59.7878][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[17:13:59.8942][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:13:59.8942][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:00.9507][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[17:14:00.9507][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[17:14:00.9787][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:14:02.2525][DEBUG]  ->  [S] Message 24115 (ServerErrorMessage) sent.
+[17:14:02.2525][DEBUG]  ->  [C] Message 14315 (ChatToAllianceStreamMessage) handled.
+[17:14:02.7164][DEBUG]  ->  Player 10 saved in 93ms.
+[17:14:02.7764][DEBUG]  ->  Alliance 2 saved in 54ms.
+[17:14:02.7764][DEBUG]  ->  Client 25.18.56.67:62843 disconnected.
+[17:14:04.9923][DEBUG]  ->  Client 25.18.56.67:62848 connected.
+[17:14:05.0129][DEBUG]  ->  Successfully got player 10 from cache in 0ms
+[17:14:05.0129][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[17:14:05.0945][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[17:14:05.0945][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[17:14:05.0945][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[17:14:05.0945][DEBUG]  ->  Successfully got alliance 2 from cache in 0ms
+[17:14:05.1023][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[17:14:05.1023][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[17:14:05.4549][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[17:14:05.4549][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[17:14:05.4614][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:05.4614][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:05.4614][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:05.4614][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[17:14:05.4614][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[17:14:05.4614][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[17:14:05.5761][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:05.5761][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:09.0168][DEBUG]  ->  Command 500 (LogicSwapSpellsCommand) with Tick 70 has been processed.
+[17:14:09.0168][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:14:09.0852][DEBUG]  ->  Player 10 saved in 64ms.
+[17:14:10.3107][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:10.3107][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:10.3107][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:10.3107][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:14:10.3247][DEBUG]  ->  [S] Message 21903 (NpcSectorStateMessage) sent.
+[17:14:10.3247][DEBUG]  ->  [C] Message 14104 (StartMissionMessage) handled.
+[17:14:10.3247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:10.3247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:12.1021][DEBUG]  ->  Player 10 saved in 65ms.
+[17:14:12.1576][DEBUG]  ->  Alliance 2 saved in 52ms.
+[17:14:12.1576][DEBUG]  ->  Client 25.18.56.67:62848 disconnected.
+[17:14:17.6374][DEBUG]  ->  Client 25.18.56.67:62860 connected.
+[17:14:17.6881][DEBUG]  ->  Successfully got player 10 from cache in 0ms
+[17:14:17.6881][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[17:14:17.7462][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[17:14:17.7462][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[17:14:17.7462][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[17:14:17.7462][DEBUG]  ->  Successfully got alliance 2 from cache in 0ms
+[17:14:17.7462][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[17:14:17.7462][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[17:14:18.4214][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[17:14:18.4214][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[17:14:18.4304][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:18.4304][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:18.4304][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:18.4304][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[17:14:18.4304][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[17:14:18.4304][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[17:14:18.5929][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:18.5929][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:18.5929][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[17:14:23.2861][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:23.2861][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:23.2891][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:23.3043][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:23.3043][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:28.2891][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:28.2891][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:28.2891][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:28.3056][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:28.3056][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:28.4928][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:14:33.3019][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:33.3073][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:33.3073][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:33.3073][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:33.3194][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:38.3123][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:38.3123][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:38.3123][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:38.3297][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:38.3297][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[17:14:38.5014][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:14:42.7046][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[17:14:42.7046][DEBUG]  ->  [S] Message 21903 (NpcSectorStateMessage) sent.
+[17:14:42.7046][DEBUG]  ->  [C] Message 14104 (StartMissionMessage) handled.
+[17:14:43.3248][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:43.3248][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[17:14:43.3248][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[17:14:44.3500][DEBUG]  ->  Player 10 saved in 63ms.
+[17:14:44.3970][DEBUG]  ->  Alliance 2 saved in 44ms.
+[17:14:44.3994][DEBUG]  ->  Client 25.18.56.67:62860 disconnected.

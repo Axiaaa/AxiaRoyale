@@ -84,6 +84,28 @@ namespace ClashRoyale.Core.Leaderboards
             // Le joueur n'a pas été trouvé
             return -1;
         }
+        public int GetPlayerLocalRankingById(int id)
+        {
+            // Parcourez chaque entrée du dictionnaire LocalPlayerRanking
+            foreach (var kvp in LocalPlayerRanking)
+            {
+                // Recherchez le joueur par son ID dans la liste actuelle
+                Player playerToFind = kvp.Value.FirstOrDefault(player => player.Id == id);
+
+                // Si le joueur est trouvé dans cette liste, obtenez son index
+                if (playerToFind != null)
+                {
+                    int playerIndex = kvp.Value.IndexOf(playerToFind);
+
+                    // Retournez le classement du joueur (ajoutez 1 pour obtenir un classement basé sur 1)
+                    return playerIndex + 1;
+                }
+            }
+
+            // Le joueur n'a pas été trouvé dans aucune liste
+            return -1;
+        }
+
     }
 }
 

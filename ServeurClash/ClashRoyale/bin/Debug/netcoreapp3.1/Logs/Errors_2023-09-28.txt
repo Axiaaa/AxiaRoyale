@@ -78,3 +78,6 @@
    at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
 --- End of stack trace from previous location where exception was thrown ---
    at ClashRoyale.Database.PlayerDb.GetGlobalPlayerRankingAsync() in C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\Database\PlayerDb.cs:line 310
+[20:58:30.2135][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)

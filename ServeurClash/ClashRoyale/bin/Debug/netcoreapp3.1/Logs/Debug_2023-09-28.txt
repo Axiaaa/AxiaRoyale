@@ -3905,3 +3905,390 @@
 [20:37:06.5938][DEBUG]  ->  Player 6 saved in 51ms.
 [20:37:06.6429][DEBUG]  ->  Alliance 3 saved in 46ms.
 [20:37:06.6429][DEBUG]  ->  Client 25.26.8.193:48266 disconnected.
+[20:49:49.2862][DEBUG]  ->  Client 25.26.8.193:48514 connected.
+[20:49:49.4999][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:49:49.7639][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:49:49.7639][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:49:49.7791][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:49:49.8346][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:49:49.8346][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:49:50.2613][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[20:49:50.2625][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[20:49:50.2625][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:49:50.2625][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:49:50.2625][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:49:50.2625][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[20:49:50.2860][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:49:50.2860][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:49:50.4582][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:49:50.4582][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:49:52.7781][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:54.7240][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:55.1294][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:49:55.1294][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:49:55.1386][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:49:55.1922][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:49:55.2579][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:49:55.3000][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[20:49:55.3000][DEBUG]  ->  Command 503 (LogicCollectSlotChestCommand) with Tick 98 has been processed.
+[20:49:55.3000][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:55.3882][DEBUG]  ->  Player 6 saved in 83ms.
+[20:49:55.4178][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 101 has been processed.
+[20:49:55.4189][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:55.4712][DEBUG]  ->  Player 6 saved in 51ms.
+[20:49:55.4712][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[20:49:55.4712][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[20:49:55.4712][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:55.4885][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 103 has been processed.
+[20:49:55.4885][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:55.5410][DEBUG]  ->  Player 6 saved in 50ms.
+[20:49:55.6532][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 105 has been processed.
+[20:49:55.6532][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:55.7051][DEBUG]  ->  Player 6 saved in 49ms.
+[20:49:55.8509][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 109 has been processed.
+[20:49:55.8509][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 109 has been processed.
+[20:49:55.8509][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:55.9081][DEBUG]  ->  Player 6 saved in 50ms.
+[20:49:56.0639][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 114 has been processed.
+[20:49:56.0639][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:56.1187][DEBUG]  ->  Player 6 saved in 51ms.
+[20:49:57.1508][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 135 has been processed.
+[20:49:57.1571][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:57.2083][DEBUG]  ->  Player 6 saved in 49ms.
+[20:49:57.3535][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 139 has been processed.
+[20:49:57.3535][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:57.4057][DEBUG]  ->  Player 6 saved in 50ms.
+[20:49:57.5223][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 143 has been processed.
+[20:49:57.5223][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:57.5828][DEBUG]  ->  Player 6 saved in 58ms.
+[20:49:57.6992][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 146 has been processed.
+[20:49:57.6992][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 146 has been processed.
+[20:49:57.7010][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:57.7516][DEBUG]  ->  Player 6 saved in 49ms.
+[20:49:57.8493][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 149 has been processed.
+[20:49:57.8493][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:57.8992][DEBUG]  ->  Player 6 saved in 47ms.
+[20:49:57.9876][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 152 has been processed.
+[20:49:57.9876][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:58.0411][DEBUG]  ->  Player 6 saved in 51ms.
+[20:49:58.1588][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 155 has been processed.
+[20:49:58.1588][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 155 has been processed.
+[20:49:58.1588][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:58.2134][DEBUG]  ->  Player 6 saved in 51ms.
+[20:49:58.3019][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 158 has been processed.
+[20:49:58.3019][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:58.3523][DEBUG]  ->  Player 6 saved in 48ms.
+[20:49:58.4892][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 162 has been processed.
+[20:49:58.4892][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:58.5422][DEBUG]  ->  Player 6 saved in 50ms.
+[20:49:59.0211][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 173 has been processed.
+[20:49:59.0211][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 173 has been processed.
+[20:49:59.0211][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:49:59.0757][DEBUG]  ->  Player 6 saved in 51ms.
+[20:50:29.1522][DEBUG]  ->  Player 6 saved in 50ms.
+[20:50:29.2042][DEBUG]  ->  Alliance 3 saved in 49ms.
+[20:50:29.2042][DEBUG]  ->  Client 25.26.8.193:48514 disconnected.
+[20:53:19.7404][DEBUG]  ->  Client 25.26.8.193:48528 connected.
+[20:53:19.9598][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:53:20.1611][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:53:20.1745][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:53:20.1745][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:53:20.2373][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:53:20.2373][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:53:20.5173][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[20:53:20.5173][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[20:53:20.5173][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:20.5173][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:20.5173][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:20.5173][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[20:53:20.5344][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:53:20.5344][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:53:20.6870][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:20.6870][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:22.2636][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:53:22.5478][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:53:22.5478][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:53:22.5625][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:53:22.5625][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:53:25.3921][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:25.3921][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:25.3921][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:25.4645][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:25.5309][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:26.2672][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[20:53:26.2672][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[20:53:26.7791][DEBUG]  ->  [S] Message 24404 (AvatarLocalRankingListMessage) sent.
+[20:53:26.7791][DEBUG]  ->  [C] Message 14404 (AskForAvatarLocalRankingListMessage) handled.
+[20:53:30.3924][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:30.3924][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:30.3924][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:30.4582][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:30.5238][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:30.5579][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:53:30.9820][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:53:30.9820][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:53:31.0213][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:53:35.3921][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:35.3921][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:35.3921][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:35.4573][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:35.5255][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:39.9538][DEBUG]  ->  Alliance 3 saved in 74ms.
+[20:53:39.9538][DEBUG]  ->  [S] Message 24115 (ServerErrorMessage) sent.
+[20:53:39.9538][DEBUG]  ->  [C] Message 14315 (ChatToAllianceStreamMessage) handled.
+[20:53:40.8117][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:40.8117][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:40.8117][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:40.9070][DEBUG]  ->  Player 6 saved in 58ms.
+[20:53:40.9573][DEBUG]  ->  Alliance 3 saved in 45ms.
+[20:53:40.9573][DEBUG]  ->  Client 25.26.8.193:48528 disconnected.
+[20:53:43.3177][DEBUG]  ->  Client 25.26.8.193:48536 connected.
+[20:53:43.3272][DEBUG]  ->  Successfully got player 6 from cache in 0ms
+[20:53:43.3272][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:53:43.4374][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:53:43.4374][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:53:43.4374][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:53:43.4374][DEBUG]  ->  Successfully got alliance 3 from cache in 0ms
+[20:53:43.4374][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:53:43.4374][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:53:43.7390][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[20:53:43.7390][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[20:53:43.7471][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:43.7471][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:43.7471][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:43.7471][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[20:53:43.7471][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:53:43.7471][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:53:43.8791][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:43.8791][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:45.5784][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:53:46.7353][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:53:46.7353][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:53:46.7353][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:53:46.7353][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:53:48.6014][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:48.6014][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:48.6014][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:48.6704][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:48.7365][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:51.4247][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[20:53:51.4247][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[20:53:53.6023][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:53.6023][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:53.6090][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:53.6090][DEBUG]  ->  [S] Message 24404 (AvatarLocalRankingListMessage) sent.
+[20:53:53.6090][DEBUG]  ->  [C] Message 14404 (AskForAvatarLocalRankingListMessage) handled.
+[20:53:53.7546][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:53.7735][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:53.7891][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:53:56.4878][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:53:56.4878][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:53:56.4878][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:53:56.4878][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:53:57.6255][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[20:53:57.6255][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[20:53:58.6122][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:58.6122][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:53:58.6122][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:53:58.6224][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[20:53:58.6224][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[20:53:58.7560][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:53:58.7742][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:00.2495][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[20:54:00.2495][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[20:54:01.1882][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:54:01.1882][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:54:01.1882][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:54:01.1882][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:54:03.6187][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:03.6187][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:03.6187][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:54:03.6799][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:03.7472][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:03.7808][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:54:33.8572][DEBUG]  ->  Player 6 saved in 55ms.
+[20:54:33.9058][DEBUG]  ->  Alliance 3 saved in 47ms.
+[20:54:33.9058][DEBUG]  ->  Client 25.26.8.193:48536 disconnected.
+[20:54:48.9610][DEBUG]  ->  Client 25.26.8.193:48554 connected.
+[20:54:49.1852][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:54:49.3600][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:54:49.3766][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:54:49.3766][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:54:49.4364][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:54:49.4364][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:54:49.8011][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[20:54:49.8011][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[20:54:49.8111][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:49.8111][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:49.8111][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:54:49.8111][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[20:54:49.8111][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:54:49.8111][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:54:49.9449][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:49.9449][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:50.7852][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:54:51.1300][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:54:51.1300][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:54:51.1398][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:54:51.1398][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:54:54.6666][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:54.6666][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:54.6697][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:54:54.7311][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:54.7962][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:59.6706][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:59.6706][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:54:59.6706][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:54:59.7358][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:59.8032][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:54:59.8573][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:55:02.6308][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[20:55:02.6308][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[20:55:03.5108][DEBUG]  ->  [S] Message 24404 (AvatarLocalRankingListMessage) sent.
+[20:55:03.5153][DEBUG]  ->  [C] Message 14404 (AskForAvatarLocalRankingListMessage) handled.
+[20:55:04.2285][DEBUG]  ->  [S] Message 24401 (AllianceRankingListMessage) sent.
+[20:55:04.2285][DEBUG]  ->  [C] Message 14401 (AskForAllianceRankingListMessage) handled.
+[20:55:04.6795][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:04.6846][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:04.6846][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:55:04.7479][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:04.7983][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:05.4115][DEBUG]  ->  [S] Message 24401 (AllianceRankingListMessage) sent.
+[20:55:05.4115][DEBUG]  ->  [C] Message 14401 (AskForAllianceRankingListMessage) handled.
+[20:55:09.4642][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:55:09.4642][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:55:09.6854][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:09.6854][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:09.6854][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:55:09.7511][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:09.8192][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:09.8519][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:55:11.0287][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:55:11.0287][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:55:11.0287][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:55:11.0287][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:55:14.6996][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:14.7013][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:14.7013][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:55:14.7611][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:14.8293][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:19.6952][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:19.6952][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:55:19.6952][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:55:19.7627][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:19.8335][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:55:19.8451][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:55:54.7141][DEBUG]  ->  Client 25.26.8.193:48572 connected.
+[20:55:54.9218][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:55:55.1699][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:55:55.1699][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:55:55.1880][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:55:55.2431][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:55:55.2431][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:55:55.3243][DEBUG]  ->  [S] Message 21903 (NpcSectorStateMessage) sent.
+[20:55:55.3251][DEBUG]  ->  [C] Message 14104 (StartMissionMessage) handled.
+[20:56:00.2970][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:56:00.2970][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:56:00.2970][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:56:00.3591][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:56:00.4271][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:56:05.0281][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:56:05.3072][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:56:05.3092][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:56:05.3092][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:56:05.3802][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:56:05.4413][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:56:05.4589][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:56:05.4589][DEBUG]  ->  [C] Message 14101 (GoHomeMessage) handled.
+[20:56:05.5466][DEBUG]  ->  Player 6 saved in 85ms.
+[20:56:07.0495][DEBUG]  ->  Player 6 saved in 52ms.
+[20:56:07.1062][DEBUG]  ->  Alliance 3 saved in 51ms.
+[20:56:07.1128][DEBUG]  ->  Client 25.26.8.193:48572 disconnected.
+[20:56:29.0596][DEBUG]  ->  Client 25.26.8.193:48592 connected.
+[20:56:29.0596][DEBUG]  ->  Successfully got player 6 from cache in 0ms
+[20:56:29.0596][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:56:29.1669][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:56:29.1669][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:56:29.1691][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:56:29.1691][DEBUG]  ->  Successfully got alliance 3 from cache in 0ms
+[20:56:29.1691][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:56:29.1691][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:56:29.7096][DEBUG]  ->  Player 6 saved in 50ms.
+[20:56:29.7586][DEBUG]  ->  Alliance 3 saved in 47ms.
+[20:56:29.7586][DEBUG]  ->  Client 25.26.8.193:48592 disconnected.
+[20:57:24.8433][DEBUG]  ->  Client 25.26.8.193:48612 connected.
+[20:57:25.0637][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:57:25.2362][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:57:25.2504][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:57:25.2504][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:57:25.3092][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:57:25.3092][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:57:25.6764][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[20:57:25.6764][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[20:57:25.6907][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:57:25.6907][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:57:25.6907][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:57:25.6907][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[20:57:25.7028][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:57:25.7028][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:57:25.8257][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:57:25.8257][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:57:27.1895][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:57:27.9869][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:57:27.9869][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:57:27.9986][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:57:27.9986][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:57:30.5443][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:57:30.5443][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:57:30.5443][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:57:30.6211][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:57:30.6878][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:58:00.8208][DEBUG]  ->  Player 6 saved in 98ms.
+[20:58:00.8735][DEBUG]  ->  Alliance 3 saved in 50ms.
+[20:58:00.8735][DEBUG]  ->  Client 25.26.8.193:48612 disconnected.
+[20:58:29.6462][DEBUG]  ->  Client 25.26.8.193:48638 connected.
+[20:58:29.8815][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:58:30.0603][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:58:30.0603][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:58:30.0767][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:58:30.1316][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:58:30.1316][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:58:30.3467][DEBUG]  ->  Player 6 saved in 81ms.
+[20:58:30.4027][DEBUG]  ->  Alliance 3 saved in 51ms.
+[20:58:30.4066][DEBUG]  ->  Client 25.26.8.193:48638 disconnected.
+[20:59:20.8224][DEBUG]  ->  Client 25.26.8.193:48652 connected.
+[20:59:21.0417][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[20:59:21.2155][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[20:59:21.2268][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[20:59:21.2329][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[20:59:21.2892][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[20:59:21.2892][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[20:59:21.5701][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[20:59:21.5701][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[20:59:21.5805][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:59:21.5805][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:59:21.5805][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:59:21.5805][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[20:59:21.5928][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:59:21.5928][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:59:21.7070][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:59:21.7070][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:59:22.8899][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:59:23.3015][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[20:59:23.3015][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[20:59:23.3145][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[20:59:23.3145][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[20:59:26.4265][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:59:26.4265][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:59:26.4265][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:59:26.4926][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:59:26.5624][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:59:31.4422][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:59:31.4422][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[20:59:31.4422][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[20:59:31.5134][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:59:31.5774][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[20:59:31.6063][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[20:59:32.5950][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[20:59:32.5950][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[20:59:32.6177][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.

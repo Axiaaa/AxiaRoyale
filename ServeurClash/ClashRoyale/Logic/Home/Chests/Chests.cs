@@ -260,7 +260,7 @@ namespace ClashRoyale.Logic.Home.Chests
             if (type == Chest.ChestType.Slot)
             {
                 // TODO: Cost
-                //chest.Gems = 10000;
+                chest.Gems = 10000;
                 chest.Gold = 10000;
             }
             else

@@ -57,3 +57,12 @@
 [20:35:33.9257][WARN]  ->  Command 557 is unhandled.
 [20:35:44.5949][WARN]  ->  Command 502 is unhandled.
 [20:35:45.3251][WARN]  ->  Command 502 is unhandled.
+[20:49:52.7753][WARN]  ->  Command 557 is unhandled.
+[20:49:54.7240][WARN]  ->  Command 502 is unhandled.
+[20:53:22.2592][WARN]  ->  Command 557 is unhandled.
+[20:53:31.0213][WARN]  ->  Command 551 is unhandled.
+[20:53:45.5784][WARN]  ->  Command 557 is unhandled.
+[20:54:50.7852][WARN]  ->  Command 557 is unhandled.
+[20:57:27.1895][WARN]  ->  Command 557 is unhandled.
+[20:59:22.8899][WARN]  ->  Command 557 is unhandled.
+[20:59:32.6177][WARN]  ->  Command 551 is unhandled.

@@ -576,7 +576,7 @@ namespace ClashRoyale.Logic
             // Profile
             {
                 packet.WriteVInt(Home.Arena.CurrentArena + 1); // Arena 
-                packet.WriteVInt(Home.Arena.Trophies); // Trophies 
+                packet.WriteVInt(Home.Arena.Trophies); // Trophies
 
                 packet.WriteVInt(1);
                 packet.WriteVInt(1);
@@ -608,10 +608,10 @@ namespace ClashRoyale.Logic
             // League
             if (Home.Arena.Trophies >= 4000)
             {
-                packet.WriteVInt(1); // Place in the top last season
+                packet.WriteVInt(leaderboard.GetPlayerLocalRankingById((int)Home.Id)); // Place in the top last season
                 packet.WriteVInt(Home.Arena.Trophies); // Trophies last season
                 packet.WriteVInt(0);
-                packet.WriteVInt(1);
+                packet.WriteVInt(Home.Arena.CurrentArena + 1); // Rank);
                 packet.WriteVInt(1); // set this 1 and it appears on the profile 
                                 
             }   

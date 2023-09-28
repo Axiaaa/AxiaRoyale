@@ -53,7 +53,7 @@ namespace ClashRoyale.Protocol.Messages.Client.Alliance
                         {
                             deck.Add(card);
 
-                            for (var i = 0; i < 12; i++) deck.UpgradeCard(card.ClassId, card.InstanceId, true);
+                            for (var i = 0; i < 13; i++) deck.UpgradeCard(card.ClassId, card.InstanceId, true);
                         }
 
                         await new ServerErrorMessage(Device)
@@ -61,7 +61,6 @@ namespace ClashRoyale.Protocol.Messages.Client.Alliance
                             Message = "Added all cards with max level"
                         }.SendAsync();
                             Console.WriteLine($"[Debug] [C] /max has been correctly executed by {Device.Player.Home.Name}, {Device.Player.Home.Id} ");
-                            Device.Player.Home.ExpLevel = 13;
                             break;
                     }
 

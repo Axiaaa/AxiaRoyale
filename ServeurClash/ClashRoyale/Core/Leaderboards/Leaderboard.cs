@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Timers;
 using ClashRoyale.Database;
@@ -7,6 +8,7 @@ using ClashRoyale.Files;
 using ClashRoyale.Files.CsvLogic;
 using ClashRoyale.Logic;
 using ClashRoyale.Logic.Clan;
+using ClashRoyale.Logic.Home;
 using ClashRoyale.Utilities;
 using SharpRaven.Data;
 
@@ -65,5 +67,23 @@ namespace ClashRoyale.Core.Leaderboards
                 }
             });
         }
+        public int GetPlayerRankingById(int id)
+        {
+            // Recherchez le joueur par son ID dans la liste GlobalPlayerRanking
+            Player playerToFind = GlobalPlayerRanking.FirstOrDefault(player => player.Id == id);
+
+            // Si le joueur est trouvé, obtenez son index dans la liste
+            if (playerToFind != null)
+            {
+                int playerIndex = GlobalPlayerRanking.IndexOf(playerToFind);
+
+                // Retournez le classement du joueur (ajoutez 1 pour obtenir un classement basé sur 1)
+                return playerIndex + 1;
+            }
+
+            // Le joueur n'a pas été trouvé
+            return -1;
+        }
     }
 }
+

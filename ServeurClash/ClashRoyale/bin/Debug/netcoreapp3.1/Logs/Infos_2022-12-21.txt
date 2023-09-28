@@ -1,0 +1,4 @@
+[08:45:35.1576][INFO]  ->  Starting [08:45:35 - Windows]...
+[08:45:35.4819][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[08:45:35.7893][INFO]  ->  52 Gamefiles loaded.
+[08:45:38.5302][INFO]  ->  MysqlConnection for players failed [remotemysql.com]!

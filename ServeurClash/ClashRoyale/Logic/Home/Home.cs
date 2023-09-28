@@ -116,7 +116,7 @@ namespace ClashRoyale.Logic.Home
                     ExpPoints = ExpPoints,
                     Arena = 54000000 + Arena.CurrentArena
                 };
-
+                
                 if (!AllianceInfo.HasAlliance) return avatar;
 
                 avatar.ClanName = AllianceInfo.Name;
@@ -190,7 +190,7 @@ namespace ClashRoyale.Logic.Home
         /// <param name="expPoints"></param>
         public void AddExpPoints(int expPoints)
         {
-            if (ExpLevel >= 13) return;
+            if (ExpLevel >= 14) return;
 
             ExpPoints += expPoints;
 

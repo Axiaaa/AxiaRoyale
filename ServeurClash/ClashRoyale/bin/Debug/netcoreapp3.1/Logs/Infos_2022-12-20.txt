@@ -1,0 +1,20 @@
+[07:25:16.7875][INFO]  ->  Starting [07:25:16 - Windows]...
+[07:25:17.3397][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[07:25:17.8453][INFO]  ->  52 Gamefiles loaded.
+[07:25:20.6550][INFO]  ->  MysqlConnection for players failed [remotemysql.com]!
+[07:26:09.1968][INFO]  ->  Starting [07:26:09 - Windows]...
+[07:26:09.7789][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[07:26:10.2437][INFO]  ->  52 Gamefiles loaded.
+[07:26:12.9184][INFO]  ->  MysqlConnection for players failed [remotemysql.com]!
+[07:27:01.2324][INFO]  ->  Starting [07:27:01 - Windows]...
+[07:27:01.7402][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[07:27:02.2162][INFO]  ->  52 Gamefiles loaded.
+[07:27:05.1899][INFO]  ->  MysqlConnection for players failed [remotemysql.com]!
+[07:30:34.0678][INFO]  ->  Starting [07:30:34 - Windows]...
+[07:30:34.5878][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[07:30:35.0458][INFO]  ->  52 Gamefiles loaded.
+[07:30:38.0487][INFO]  ->  MysqlConnection for players failed [remotemysql.com]!
+[08:03:31.6954][INFO]  ->  Starting [08:03:31 - Windows]...
+[08:03:32.1011][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[08:03:32.4497][INFO]  ->  52 Gamefiles loaded.
+[08:03:35.6813][INFO]  ->  MysqlConnection for players failed [remotemysql.com]!

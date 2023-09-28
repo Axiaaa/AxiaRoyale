@@ -1,0 +1,1363 @@
+[13:25:21.6057][DEBUG]  ->  Client 25.18.56.67:55674 connected.
+[13:25:21.8859][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[13:25:22.2552][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[13:25:22.2552][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[13:25:22.2552][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[13:25:22.3398][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[13:25:22.3398][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[13:25:22.8959][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:25:22.8959][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:25:22.8959][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:22.9109][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:22.9109][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:22.9109][DEBUG]  ->  [S] Message 24405 (RoyalTvContentMessage) sent.
+[13:25:22.9109][DEBUG]  ->  [C] Message 14402 (AskForTvContentMessage) handled.
+[13:25:22.9109][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[13:25:22.9243][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[13:25:22.9243][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[13:25:23.1124][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:23.1124][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:23.1124][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[13:25:24.0813][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:27.6440][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:27.6440][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:27.6440][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:27.6611][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:27.6611][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:32.6538][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:32.6538][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:32.6538][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:32.6658][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:32.6658][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:33.0233][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:36.7058][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[13:25:36.7058][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[13:25:36.7058][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[13:25:36.7058][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[13:25:37.6569][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:37.6588][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:37.6588][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:37.6745][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:37.6745][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:42.6732][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:42.6754][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:42.6754][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:42.6902][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:42.6902][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:43.0143][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:47.6897][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:47.6897][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:47.6897][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:47.7057][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:47.7057][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:52.6897][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:52.6897][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:52.6897][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:52.7068][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:52.7068][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:53.0121][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:57.7076][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:57.7076][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:25:57.7076][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:25:57.7231][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:57.7231][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:25:58.9958][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:25:58.9958][DEBUG]  ->  Command 509 (LogicCollectFreeChestCommand) with Tick 719 has been processed.
+[13:25:58.9958][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:59.1318][DEBUG]  ->  Player 20 saved in 130ms.
+[13:25:59.1318][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:59.1318][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 721 has been processed.
+[13:25:59.1318][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:59.2422][DEBUG]  ->  Player 20 saved in 104ms.
+[13:25:59.6075][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 731 has been processed.
+[13:25:59.6075][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:59.7058][DEBUG]  ->  Player 20 saved in 95ms.
+[13:25:59.7493][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 734 has been processed.
+[13:25:59.7493][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:25:59.8522][DEBUG]  ->  Player 20 saved in 99ms.
+[13:25:59.9759][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 738 has been processed.
+[13:25:59.9759][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 738 has been processed.
+[13:25:59.9759][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:00.0536][DEBUG]  ->  Player 20 saved in 72ms.
+[13:26:00.1383][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 742 has been processed.
+[13:26:00.1383][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:00.2147][DEBUG]  ->  Player 20 saved in 73ms.
+[13:26:00.2746][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 744 has been processed.
+[13:26:00.2746][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:00.3611][DEBUG]  ->  Player 20 saved in 83ms.
+[13:26:00.4172][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 747 has been processed.
+[13:26:00.4172][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 747 has been processed.
+[13:26:00.4172][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:00.4996][DEBUG]  ->  Player 20 saved in 78ms.
+[13:26:00.5807][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 751 has been processed.
+[13:26:00.5807][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:00.6661][DEBUG]  ->  Player 20 saved in 82ms.
+[13:26:00.7989][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 755 has been processed.
+[13:26:00.8006][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:00.8783][DEBUG]  ->  Player 20 saved in 76ms.
+[13:26:01.2733][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 764 has been processed.
+[13:26:01.2733][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 764 has been processed.
+[13:26:01.2733][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:01.3550][DEBUG]  ->  Player 20 saved in 77ms.
+[13:26:01.4577][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 768 has been processed.
+[13:26:01.4577][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:01.5325][DEBUG]  ->  Player 20 saved in 72ms.
+[13:26:02.3037][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 785 has been processed.
+[13:26:02.3037][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:02.3776][DEBUG]  ->  Player 20 saved in 70ms.
+[13:26:02.7076][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:02.7076][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:02.7076][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:02.7248][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:02.7248][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:03.0024][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[13:26:03.0024][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[13:26:03.0024][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:03.0293][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:05.8911][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[13:26:05.8927][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[13:26:05.8927][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[13:26:05.8927][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[13:26:07.7187][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:07.7210][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:07.7210][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:07.7368][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:07.7368][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:11.8544][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[13:26:11.8544][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[13:26:12.5838][DEBUG]  ->  [S] Message 24401 (AllianceRankingListMessage) sent.
+[13:26:12.5838][DEBUG]  ->  [C] Message 14401 (AskForAllianceRankingListMessage) handled.
+[13:26:12.7343][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:12.7366][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:12.7366][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:12.7519][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:12.7519][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:13.0221][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:13.2939][DEBUG]  ->  [S] Message 24401 (AllianceRankingListMessage) sent.
+[13:26:13.2939][DEBUG]  ->  [C] Message 14401 (AskForAllianceRankingListMessage) handled.
+[13:26:17.7362][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:17.7383][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:17.7383][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:17.7525][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:17.7525][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:18.6067][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:26:18.6067][DEBUG]  ->  Command 516 (LogicBuyChestCommand) with Tick 1111 has been processed.
+[13:26:18.6067][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:18.6992][DEBUG]  ->  Player 20 saved in 88ms.
+[13:26:18.6992][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:18.7367][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1114 has been processed.
+[13:26:18.7367][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:18.8248][DEBUG]  ->  Player 20 saved in 84ms.
+[13:26:18.8761][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1116 has been processed.
+[13:26:18.8777][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:18.9486][DEBUG]  ->  Player 20 saved in 69ms.
+[13:26:18.9486][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1117 has been processed.
+[13:26:18.9486][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.0342][DEBUG]  ->  Player 20 saved in 79ms.
+[13:26:19.0342][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1118 has been processed.
+[13:26:19.0342][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1118 has been processed.
+[13:26:19.0342][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.1132][DEBUG]  ->  Player 20 saved in 72ms.
+[13:26:19.1132][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1119 has been processed.
+[13:26:19.1132][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.1936][DEBUG]  ->  Player 20 saved in 69ms.
+[13:26:19.1936][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1120 has been processed.
+[13:26:19.1936][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.2754][DEBUG]  ->  Player 20 saved in 77ms.
+[13:26:19.2754][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1121 has been processed.
+[13:26:19.2754][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1121 has been processed.
+[13:26:19.2754][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.3607][DEBUG]  ->  Player 20 saved in 79ms.
+[13:26:19.3628][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1122 has been processed.
+[13:26:19.3628][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.4394][DEBUG]  ->  Player 20 saved in 74ms.
+[13:26:19.4413][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1123 has been processed.
+[13:26:19.4413][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.5158][DEBUG]  ->  Player 20 saved in 72ms.
+[13:26:19.5158][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1124 has been processed.
+[13:26:19.5187][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1124 has been processed.
+[13:26:19.5187][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.5974][DEBUG]  ->  Player 20 saved in 76ms.
+[13:26:19.5974][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1126 has been processed.
+[13:26:19.5974][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.6790][DEBUG]  ->  Player 20 saved in 77ms.
+[13:26:19.6790][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1127 has been processed.
+[13:26:19.6790][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.7529][DEBUG]  ->  Player 20 saved in 70ms.
+[13:26:19.7529][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1128 has been processed.
+[13:26:19.7529][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1128 has been processed.
+[13:26:19.7529][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.8325][DEBUG]  ->  Player 20 saved in 73ms.
+[13:26:19.8325][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1129 has been processed.
+[13:26:19.8325][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:19.9132][DEBUG]  ->  Player 20 saved in 76ms.
+[13:26:19.9132][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1130 has been processed.
+[13:26:19.9132][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.2006][DEBUG]  ->  Player 20 saved in 283ms.
+[13:26:20.2006][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1131 has been processed.
+[13:26:20.2006][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1131 has been processed.
+[13:26:20.2006][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.2785][DEBUG]  ->  Player 20 saved in 71ms.
+[13:26:20.2785][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1132 has been processed.
+[13:26:20.2785][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.3529][DEBUG]  ->  Player 20 saved in 70ms.
+[13:26:20.3529][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1133 has been processed.
+[13:26:20.3529][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.4264][DEBUG]  ->  Player 20 saved in 69ms.
+[13:26:20.4264][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1134 has been processed.
+[13:26:20.4264][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1134 has been processed.
+[13:26:20.4264][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.5116][DEBUG]  ->  Player 20 saved in 79ms.
+[13:26:20.5116][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1135 has been processed.
+[13:26:20.5116][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.5874][DEBUG]  ->  Player 20 saved in 72ms.
+[13:26:20.5874][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1136 has been processed.
+[13:26:20.5874][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.6616][DEBUG]  ->  Player 20 saved in 70ms.
+[13:26:20.6616][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1137 has been processed.
+[13:26:20.6616][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1137 has been processed.
+[13:26:20.6616][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.7354][DEBUG]  ->  Player 20 saved in 68ms.
+[13:26:20.7369][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1142 has been processed.
+[13:26:20.7369][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.8202][DEBUG]  ->  Player 20 saved in 80ms.
+[13:26:20.8202][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1143 has been processed.
+[13:26:20.8202][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.8935][DEBUG]  ->  Player 20 saved in 69ms.
+[13:26:20.8935][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1144 has been processed.
+[13:26:20.8935][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1144 has been processed.
+[13:26:20.8935][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:20.9716][DEBUG]  ->  Player 20 saved in 73ms.
+[13:26:20.9716][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1146 has been processed.
+[13:26:20.9716][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:21.0454][DEBUG]  ->  Player 20 saved in 70ms.
+[13:26:21.0454][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 1156 has been processed.
+[13:26:21.0454][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:21.1207][DEBUG]  ->  Player 20 saved in 71ms.
+[13:26:22.7494][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:22.7494][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:22.7527][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:22.7527][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:22.7687][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:23.0218][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:27.7518][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:27.7541][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:27.7541][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:27.7693][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:27.7693][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:32.7647][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:32.7647][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:32.7647][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:32.7817][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:32.7817][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:33.0192][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:37.7772][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:37.7772][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:37.7772][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:37.7940][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:37.7940][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:42.7838][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:42.7838][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:42.7838][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:42.8003][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:42.8003][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:43.0228][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:47.7885][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:47.7885][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:47.7885][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:47.8053][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:47.8053][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:52.7959][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:52.7990][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:52.7990][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:52.7990][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:52.7990][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:53.0153][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:26:57.8005][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:57.8005][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:26:57.8005][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:26:57.8181][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:26:57.8181][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:02.8075][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:02.8075][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:02.8075][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:02.8246][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:02.8246][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:03.0460][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:27:07.8167][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:07.8167][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:07.8167][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:07.8337][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:07.8337][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:12.8286][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:12.8303][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:12.8303][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:12.8303][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:12.8468][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:13.0326][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:27:17.8324][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:17.8324][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:17.8324][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:17.8511][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:17.8511][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:22.8360][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:22.8360][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:22.8360][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:22.8531][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:22.8531][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:23.0397][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:27:27.8500][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:27.8500][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:27.8500][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:27.8667][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:27.8667][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:32.8585][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:32.8585][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:32.8585][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:32.8755][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:32.8755][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:33.0435][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:27:37.8591][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:37.8619][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:37.8619][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:37.8619][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:37.8619][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:42.8600][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:42.8624][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:42.8624][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:42.8624][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:42.8781][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:43.0442][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:27:47.8621][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:47.8621][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:47.8621][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:47.8793][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:47.8793][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:52.8627][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:52.8627][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:52.8627][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:52.8806][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:52.8806][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:53.0336][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:27:57.8791][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:57.8791][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:27:57.8791][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:27:57.8956][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:27:57.8956][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:02.8939][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:02.8939][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:02.8939][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:02.9117][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:02.9117][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:03.0466][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:28:07.8946][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:07.8946][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:07.8946][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:07.9115][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:07.9115][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:12.9110][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:12.9110][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:12.9110][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:12.9282][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:12.9282][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:13.0471][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:28:17.9215][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:17.9215][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:17.9247][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:17.9247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:17.9397][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:22.9351][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:22.9351][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:22.9351][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:22.9529][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:22.9529][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:23.0370][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:28:27.9448][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:27.9448][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:27.9448][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:27.9622][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:27.9622][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:32.9483][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:32.9483][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:32.9483][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:32.9654][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:32.9654][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:33.0347][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:28:37.9515][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:37.9515][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:37.9515][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:37.9686][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:37.9686][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:42.9578][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:42.9578][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:42.9578][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:42.9743][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:42.9743][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:43.0424][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:28:47.9714][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:47.9714][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:47.9714][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:47.9885][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:47.9885][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:52.9860][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:52.9879][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:52.9879][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:53.0038][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:53.0038][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:53.0372][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:28:57.9922][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:57.9922][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:28:57.9922][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:28:58.0087][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:28:58.0087][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:03.0070][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:03.0070][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:03.0070][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:03.0247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:03.0247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:03.0407][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:29:08.0197][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:08.0197][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:08.0197][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:08.0373][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:08.0373][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:11.8268][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:29:13.0307][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:13.0307][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:13.0307][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:13.0525][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:13.0525][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:13.0525][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:29:18.0370][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:18.0370][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:18.0370][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:18.0533][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:18.0533][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:23.0422][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:23.0422][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:23.0422][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:23.0422][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:29:23.0589][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:23.0589][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:28.2201][DEBUG]  ->  Player 20 saved in 83ms.
+[13:29:28.2990][DEBUG]  ->  Alliance 9 saved in 75ms.
+[13:29:28.3013][DEBUG]  ->  Client 25.18.56.67:55674 disconnected.
+[13:29:39.6176][DEBUG]  ->  Client 25.18.56.67:56862 connected.
+[13:29:40.0543][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[13:29:40.0543][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[13:29:40.1363][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[13:29:40.1363][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[13:29:40.1363][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[13:29:40.1363][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[13:29:40.1363][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[13:29:40.1425][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[13:29:40.8520][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:29:40.8520][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:29:40.8520][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:40.8636][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:40.8636][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:40.8636][DEBUG]  ->  [S] Message 24405 (RoyalTvContentMessage) sent.
+[13:29:40.8636][DEBUG]  ->  [C] Message 14402 (AskForTvContentMessage) handled.
+[13:29:40.8636][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[13:29:40.8785][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[13:29:40.8785][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[13:29:41.0787][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:41.0802][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:41.0802][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[13:29:42.1764][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:29:45.5789][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:45.5807][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:45.5807][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:45.5807][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:45.5967][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:50.5891][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:50.5891][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:50.5891][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:50.6055][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:50.6055][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:50.9796][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:29:55.6054][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:55.6054][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:29:55.6054][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:29:55.6229][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:29:55.6229][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:00.6116][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:00.6116][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:00.6116][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:00.6291][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:00.6291][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:00.9853][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:04.0725][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:04.4510][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:30:04.4510][DEBUG]  ->  Command 503 (LogicCollectSlotChestCommand) with Tick 469 has been processed.
+[13:30:04.4510][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:04.5374][DEBUG]  ->  Player 20 saved in 82ms.
+[13:30:04.5374][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:30:04.5374][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:30:04.5374][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:04.5776][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 471 has been processed.
+[13:30:04.5776][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:04.6527][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:05.6178][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:05.6178][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:05.6178][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:05.6350][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:05.6350][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:05.7401][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 494 has been processed.
+[13:30:05.7401][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:05.8316][DEBUG]  ->  Player 20 saved in 87ms.
+[13:30:05.9112][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 498 has been processed.
+[13:30:05.9112][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:05.9976][DEBUG]  ->  Player 20 saved in 83ms.
+[13:30:06.0874][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 501 has been processed.
+[13:30:06.0874][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 501 has been processed.
+[13:30:06.0874][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:06.1644][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:06.5485][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 511 has been processed.
+[13:30:06.5502][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:06.6241][DEBUG]  ->  Player 20 saved in 71ms.
+[13:30:06.6241][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 512 has been processed.
+[13:30:06.6272][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:06.7067][DEBUG]  ->  Player 20 saved in 78ms.
+[13:30:06.7067][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 513 has been processed.
+[13:30:06.7067][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 513 has been processed.
+[13:30:06.7067][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:06.7839][DEBUG]  ->  Player 20 saved in 71ms.
+[13:30:06.7839][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 514 has been processed.
+[13:30:06.7839][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 514 has been processed.
+[13:30:06.7839][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:06.8683][DEBUG]  ->  Player 20 saved in 78ms.
+[13:30:06.8683][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 515 has been processed.
+[13:30:06.8683][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 515 has been processed.
+[13:30:06.8683][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:06.9556][DEBUG]  ->  Player 20 saved in 80ms.
+[13:30:06.9607][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 516 has been processed.
+[13:30:06.9607][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:07.0365][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:07.0365][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 517 has been processed.
+[13:30:07.0365][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:07.1133][DEBUG]  ->  Player 20 saved in 71ms.
+[13:30:07.1133][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 518 has been processed.
+[13:30:07.1133][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 518 has been processed.
+[13:30:07.1133][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:07.1989][DEBUG]  ->  Player 20 saved in 76ms.
+[13:30:07.1989][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 519 has been processed.
+[13:30:07.1989][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:07.2845][DEBUG]  ->  Player 20 saved in 81ms.
+[13:30:07.2845][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 520 has been processed.
+[13:30:07.2845][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:07.3711][DEBUG]  ->  Player 20 saved in 74ms.
+[13:30:07.3711][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 521 has been processed.
+[13:30:07.3711][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 521 has been processed.
+[13:30:07.3711][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:07.4551][DEBUG]  ->  Player 20 saved in 78ms.
+[13:30:07.4551][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 522 has been processed.
+[13:30:07.4551][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 522 has been processed.
+[13:30:07.4551][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:07.5359][DEBUG]  ->  Player 20 saved in 74ms.
+[13:30:08.4371][DEBUG]  ->  Player 20 saved in 86ms.
+[13:30:08.5107][DEBUG]  ->  Alliance 9 saved in 72ms.
+[13:30:08.5107][DEBUG]  ->  Client 25.18.56.67:56862 disconnected.
+[13:30:14.1008][DEBUG]  ->  Client 25.18.56.67:56895 connected.
+[13:30:14.1657][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[13:30:14.1657][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[13:30:14.2658][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[13:30:14.2658][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[13:30:14.2690][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[13:30:14.2690][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[13:30:14.2690][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[13:30:14.2690][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[13:30:14.7982][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:30:14.8000][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:30:14.8000][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:14.8000][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:14.8000][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:14.8000][DEBUG]  ->  [S] Message 24405 (RoyalTvContentMessage) sent.
+[13:30:14.8150][DEBUG]  ->  [C] Message 14402 (AskForTvContentMessage) handled.
+[13:30:14.8150][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[13:30:14.8150][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[13:30:14.8302][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[13:30:15.7675][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:15.7692][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:15.7692][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[13:30:16.9899][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:19.6553][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:19.6553][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:19.6553][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:19.6738][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:19.6756][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:24.6577][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:24.6595][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:24.6595][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:24.6807][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:24.6807][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:25.6786][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:29.6711][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:29.6711][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:29.6744][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:29.6744][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:29.6902][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:34.6769][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:34.6968][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:34.6968][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:34.6968][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:34.7106][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:35.6670][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:39.6901][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:39.6901][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:39.6901][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:39.7120][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:39.7120][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:40.5941][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:41.7391][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:30:41.7391][DEBUG]  ->  Command 503 (LogicCollectSlotChestCommand) with Tick 520 has been processed.
+[13:30:41.7391][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:41.8301][DEBUG]  ->  Player 20 saved in 87ms.
+[13:30:41.8301][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:30:41.8301][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:30:41.8301][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:41.8683][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 523 has been processed.
+[13:30:41.8683][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:41.9531][DEBUG]  ->  Player 20 saved in 76ms.
+[13:30:42.2548][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 531 has been processed.
+[13:30:42.2548][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:42.3318][DEBUG]  ->  Player 20 saved in 74ms.
+[13:30:44.1906][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 570 has been processed.
+[13:30:44.1906][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:44.2727][DEBUG]  ->  Player 20 saved in 79ms.
+[13:30:44.6951][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:44.6951][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:44.6951][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:44.7126][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:44.7126][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:45.1038][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 588 has been processed.
+[13:30:45.1038][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:45.1789][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:45.6632][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:45.6879][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 600 has been processed.
+[13:30:45.6879][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 600 has been processed.
+[13:30:45.6904][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:45.7747][DEBUG]  ->  Player 20 saved in 83ms.
+[13:30:47.6063][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 638 has been processed.
+[13:30:47.6063][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 638 has been processed.
+[13:30:47.6063][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:47.6908][DEBUG]  ->  Player 20 saved in 79ms.
+[13:30:47.6908][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 639 has been processed.
+[13:30:47.6908][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:47.7678][DEBUG]  ->  Player 20 saved in 73ms.
+[13:30:47.7694][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 640 has been processed.
+[13:30:47.7694][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:47.8468][DEBUG]  ->  Player 20 saved in 75ms.
+[13:30:47.8468][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 641 has been processed.
+[13:30:47.8468][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 641 has been processed.
+[13:30:47.8468][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:47.9259][DEBUG]  ->  Player 20 saved in 74ms.
+[13:30:48.7737][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 661 has been processed.
+[13:30:48.7737][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:48.8523][DEBUG]  ->  Player 20 saved in 75ms.
+[13:30:49.2693][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 671 has been processed.
+[13:30:49.2693][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 671 has been processed.
+[13:30:49.2693][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:49.4874][DEBUG]  ->  Player 20 saved in 214ms.
+[13:30:49.7082][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:49.7082][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:49.7082][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:49.7247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:49.7247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:50.1490][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 689 has been processed.
+[13:30:50.1490][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:50.2314][DEBUG]  ->  Player 20 saved in 79ms.
+[13:30:50.5259][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 696 has been processed.
+[13:30:50.5259][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 696 has been processed.
+[13:30:50.5259][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:50.6077][DEBUG]  ->  Player 20 saved in 78ms.
+[13:30:51.0830][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 708 has been processed.
+[13:30:51.0830][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:51.1709][DEBUG]  ->  Player 20 saved in 85ms.
+[13:30:51.3214][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 712 has been processed.
+[13:30:51.3214][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:51.4010][DEBUG]  ->  Player 20 saved in 76ms.
+[13:30:51.4951][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 716 has been processed.
+[13:30:51.4951][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 716 has been processed.
+[13:30:51.4951][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:51.5736][DEBUG]  ->  Player 20 saved in 75ms.
+[13:30:51.9129][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 724 has been processed.
+[13:30:51.9129][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:51.9836][DEBUG]  ->  Player 20 saved in 68ms.
+[13:30:52.0310][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 727 has been processed.
+[13:30:52.0310][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:52.1095][DEBUG]  ->  Player 20 saved in 75ms.
+[13:30:52.2038][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 730 has been processed.
+[13:30:52.2038][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 730 has been processed.
+[13:30:52.2063][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:52.2767][DEBUG]  ->  Player 20 saved in 69ms.
+[13:30:52.5587][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 737 has been processed.
+[13:30:52.5587][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:52.6380][DEBUG]  ->  Player 20 saved in 76ms.
+[13:30:52.9886][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 746 has been processed.
+[13:30:52.9886][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 746 has been processed.
+[13:30:52.9886][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:53.0789][DEBUG]  ->  Player 20 saved in 86ms.
+[13:30:53.1525][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 749 has been processed.
+[13:30:53.1525][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:53.2334][DEBUG]  ->  Player 20 saved in 78ms.
+[13:30:53.4060][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 754 has been processed.
+[13:30:53.4060][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:53.4831][DEBUG]  ->  Player 20 saved in 74ms.
+[13:30:53.7158][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 760 has been processed.
+[13:30:53.7158][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 760 has been processed.
+[13:30:53.7158][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:53.7975][DEBUG]  ->  Player 20 saved in 77ms.
+[13:30:53.8665][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 763 has been processed.
+[13:30:53.8665][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:53.9510][DEBUG]  ->  Player 20 saved in 81ms.
+[13:30:54.0177][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 766 has been processed.
+[13:30:54.0177][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:54.1006][DEBUG]  ->  Player 20 saved in 80ms.
+[13:30:54.1599][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 769 has been processed.
+[13:30:54.1599][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 769 has been processed.
+[13:30:54.1599][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:54.2359][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:54.3236][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 772 has been processed.
+[13:30:54.3236][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:54.3986][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:54.7143][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:54.7143][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:30:54.7143][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:30:54.7308][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:54.7308][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:30:54.9588][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 785 has been processed.
+[13:30:54.9588][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 785 has been processed.
+[13:30:54.9588][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.0318][DEBUG]  ->  Player 20 saved in 68ms.
+[13:30:55.0318][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 786 has been processed.
+[13:30:55.0343][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.1092][DEBUG]  ->  Player 20 saved in 73ms.
+[13:30:55.1092][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 787 has been processed.
+[13:30:55.1118][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.1862][DEBUG]  ->  Player 20 saved in 73ms.
+[13:30:55.1862][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 788 has been processed.
+[13:30:55.1862][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 788 has been processed.
+[13:30:55.1862][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.2681][DEBUG]  ->  Player 20 saved in 77ms.
+[13:30:55.2681][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 789 has been processed.
+[13:30:55.2681][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.3520][DEBUG]  ->  Player 20 saved in 79ms.
+[13:30:55.3520][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 790 has been processed.
+[13:30:55.3520][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.4270][DEBUG]  ->  Player 20 saved in 71ms.
+[13:30:55.4270][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 791 has been processed.
+[13:30:55.4270][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 791 has been processed.
+[13:30:55.4270][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.5077][DEBUG]  ->  Player 20 saved in 75ms.
+[13:30:55.5077][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 792 has been processed.
+[13:30:55.5077][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.5845][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:55.5845][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 793 has been processed.
+[13:30:55.5845][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.6683][DEBUG]  ->  Player 20 saved in 80ms.
+[13:30:55.6683][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 798 has been processed.
+[13:30:55.6683][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 798 has been processed.
+[13:30:55.6683][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.7626][DEBUG]  ->  Player 20 saved in 89ms.
+[13:30:55.7626][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 799 has been processed.
+[13:30:55.7626][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.8496][DEBUG]  ->  Player 20 saved in 82ms.
+[13:30:55.8496][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 800 has been processed.
+[13:30:55.8496][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:55.9292][DEBUG]  ->  Player 20 saved in 75ms.
+[13:30:55.9292][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 801 has been processed.
+[13:30:55.9292][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 801 has been processed.
+[13:30:55.9292][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.0054][DEBUG]  ->  Player 20 saved in 71ms.
+[13:30:56.0054][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 805 has been processed.
+[13:30:56.0054][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.0869][DEBUG]  ->  Player 20 saved in 77ms.
+[13:30:56.0869][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 806 has been processed.
+[13:30:56.0869][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.1661][DEBUG]  ->  Player 20 saved in 75ms.
+[13:30:56.1661][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 807 has been processed.
+[13:30:56.1661][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 807 has been processed.
+[13:30:56.1661][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.2581][DEBUG]  ->  Player 20 saved in 86ms.
+[13:30:56.2581][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 808 has been processed.
+[13:30:56.2581][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.3529][DEBUG]  ->  Player 20 saved in 88ms.
+[13:30:56.3529][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 809 has been processed.
+[13:30:56.3529][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.4389][DEBUG]  ->  Player 20 saved in 82ms.
+[13:30:56.4402][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 812 has been processed.
+[13:30:56.4402][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 812 has been processed.
+[13:30:56.4402][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.5208][DEBUG]  ->  Player 20 saved in 74ms.
+[13:30:56.5208][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 813 has been processed.
+[13:30:56.5208][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.5958][DEBUG]  ->  Player 20 saved in 71ms.
+[13:30:56.5973][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 814 has been processed.
+[13:30:56.5973][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.6728][DEBUG]  ->  Player 20 saved in 72ms.
+[13:30:56.6728][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 815 has been processed.
+[13:30:56.6754][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 815 has been processed.
+[13:30:56.6754][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:30:56.7506][DEBUG]  ->  Player 20 saved in 73ms.
+[13:30:59.2208][DEBUG]  ->  Player 20 saved in 91ms.
+[13:30:59.2986][DEBUG]  ->  Alliance 9 saved in 75ms.
+[13:30:59.3004][DEBUG]  ->  Client 25.18.56.67:56895 disconnected.
+[13:31:04.4248][DEBUG]  ->  Client 25.18.56.67:57319 connected.
+[13:31:04.4974][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[13:31:04.4974][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[13:31:04.5812][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[13:31:04.5812][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[13:31:04.5812][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[13:31:04.5812][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[13:31:04.5812][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[13:31:04.5812][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[13:31:04.9706][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:31:04.9721][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:31:04.9721][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:04.9721][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:04.9721][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:04.9721][DEBUG]  ->  [S] Message 24405 (RoyalTvContentMessage) sent.
+[13:31:04.9721][DEBUG]  ->  [C] Message 14402 (AskForTvContentMessage) handled.
+[13:31:04.9721][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[13:31:04.9893][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[13:31:04.9893][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[13:31:05.1159][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:05.1159][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:05.1159][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[13:31:07.1432][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:07.7860][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[13:31:07.7860][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[13:31:07.8174][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:09.8215][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:09.8215][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:09.8215][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:09.8401][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:09.8401][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:10.8194][DEBUG]  ->  [S] Message 24113 (VisitedHomeDataMessage) sent.
+[13:31:10.8194][DEBUG]  ->  [C] Message 14113 (VisitHomeMessage) handled.
+[13:31:10.8194][DEBUG]  ->  [S] Message 24445 (InboxListMessage) sent.
+[13:31:10.8194][DEBUG]  ->  [C] Message 10905 (InboxOpenedMessage) handled.
+[13:31:14.8221][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:14.8221][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:14.8221][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:14.8395][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:14.8395][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:15.0444][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:19.8230][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:19.8230][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:19.8230][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:19.8398][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:19.8398][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:24.8330][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:24.8330][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:24.8330][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:24.8495][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:24.8495][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:25.0380][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:29.8391][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:29.8391][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:29.8391][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:29.8555][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:29.8555][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:32.6581][DEBUG]  ->  Command 500 (LogicSwapSpellsCommand) with Tick 551 has been processed.
+[13:31:32.6601][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:32.7456][DEBUG]  ->  Player 20 saved in 84ms.
+[13:31:33.2245][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:33.2245][DEBUG]  ->  [S] Message 21903 (NpcSectorStateMessage) sent.
+[13:31:33.2245][DEBUG]  ->  [C] Message 14104 (StartMissionMessage) handled.
+[13:31:34.8506][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:34.8506][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:34.8506][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:34.8730][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:34.8730][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:39.8587][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:39.8587][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:39.8623][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:39.8623][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:39.8623][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:42.6974][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:43.0193][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[13:31:43.0193][DEBUG]  ->  [C] Message 14101 (GoHomeMessage) handled.
+[13:31:43.1165][DEBUG]  ->  Player 20 saved in 94ms.
+[13:31:43.7946][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:31:43.7946][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:31:43.7946][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:43.8010][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:43.8010][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:43.8010][DEBUG]  ->  [S] Message 24405 (RoyalTvContentMessage) sent.
+[13:31:43.8010][DEBUG]  ->  [C] Message 14402 (AskForTvContentMessage) handled.
+[13:31:43.8010][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[13:31:43.8010][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[13:31:43.8010][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[13:31:43.9251][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:43.9251][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:44.9249][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:48.7072][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:48.7072][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:48.7072][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:48.7247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:48.7247][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:53.7154][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:53.7154][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:53.7154][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:53.7318][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:53.7318][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:53.8327][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:31:58.4518][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[13:31:58.4518][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[13:31:58.7222][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:58.7222][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:31:58.7222][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:31:58.7392][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:31:58.7392][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:03.7300][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:03.7300][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:03.7300][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:03.7466][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:03.7466][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:03.8310][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:04.8065][DEBUG]  ->  [S] Message 24403 (AvatarRankingListMessage) sent.
+[13:32:04.8065][DEBUG]  ->  [C] Message 14403 (AskForAvatarRankingListMessage) handled.
+[13:32:08.7388][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:08.7388][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:08.7388][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:08.7557][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:08.7557][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:13.7472][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:13.7472][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:13.7472][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:13.7642][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:13.7642][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:13.8313][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:18.3229][DEBUG]  ->  Player 20 saved in 99ms.
+[13:32:18.3960][DEBUG]  ->  Alliance 9 saved in 70ms.
+[13:32:18.3960][DEBUG]  ->  Client 25.18.56.67:57319 disconnected.
+[13:32:32.4568][DEBUG]  ->  Client 25.18.56.67:57364 connected.
+[13:32:32.9705][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[13:32:33.0486][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[13:32:33.0505][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[13:32:33.0505][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[13:32:35.3909][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:32:35.3909][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:32:35.3988][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:35.3988][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:35.3988][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:35.3988][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[13:32:35.4255][DEBUG]  ->  [S] Message 24304 (JoinableAllianceListMessage) sent.
+[13:32:35.4255][DEBUG]  ->  [C] Message 14303 (AskForJoinableAlliancesListMessage) handled.
+[13:32:35.5463][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:37.2684][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:37.2684][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:37.2995][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[13:32:40.9548][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:32:41.0371][DEBUG]  ->  Player 21 saved in 80ms.
+[13:32:41.0371][DEBUG]  ->  [C] Message 10212 (ChangeAvatarNameMessage) handled.
+[13:32:41.0371][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:44.1304][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:44.1304][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:44.1304][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:44.1477][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:44.1477][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:46.8720][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:32:46.8720][DEBUG]  ->  Command 516 (LogicBuyChestCommand) with Tick 191 has been processed.
+[13:32:46.8720][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:46.9492][DEBUG]  ->  Player 21 saved in 73ms.
+[13:32:46.9492][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:47.0646][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 195 has been processed.
+[13:32:47.0660][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:47.1389][DEBUG]  ->  Player 21 saved in 71ms.
+[13:32:47.2838][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:47.7928][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 209 has been processed.
+[13:32:47.7928][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:47.8797][DEBUG]  ->  Player 21 saved in 84ms.
+[13:32:48.1039][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 216 has been processed.
+[13:32:48.1039][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:48.1812][DEBUG]  ->  Player 21 saved in 74ms.
+[13:32:48.3651][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 221 has been processed.
+[13:32:48.3651][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 221 has been processed.
+[13:32:48.3651][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:48.4438][DEBUG]  ->  Player 21 saved in 74ms.
+[13:32:48.4956][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 224 has been processed.
+[13:32:48.4956][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:48.5715][DEBUG]  ->  Player 21 saved in 73ms.
+[13:32:49.1425][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:49.1456][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:49.1456][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:49.1601][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:49.1601][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:49.2290][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 238 has been processed.
+[13:32:49.2290][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.3068][DEBUG]  ->  Player 21 saved in 73ms.
+[13:32:49.3068][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 239 has been processed.
+[13:32:49.3068][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 239 has been processed.
+[13:32:49.3068][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.3834][DEBUG]  ->  Player 21 saved in 71ms.
+[13:32:49.3834][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 240 has been processed.
+[13:32:49.3834][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.4596][DEBUG]  ->  Player 21 saved in 72ms.
+[13:32:49.4596][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 241 has been processed.
+[13:32:49.4596][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.5343][DEBUG]  ->  Player 21 saved in 70ms.
+[13:32:49.5343][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 242 has been processed.
+[13:32:49.5343][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 242 has been processed.
+[13:32:49.5343][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.6152][DEBUG]  ->  Player 21 saved in 75ms.
+[13:32:49.6152][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 243 has been processed.
+[13:32:49.6152][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.6974][DEBUG]  ->  Player 21 saved in 78ms.
+[13:32:49.6974][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 245 has been processed.
+[13:32:49.6974][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 245 has been processed.
+[13:32:49.6974][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.7744][DEBUG]  ->  Player 21 saved in 72ms.
+[13:32:49.7744][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 246 has been processed.
+[13:32:49.7744][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.8628][DEBUG]  ->  Player 21 saved in 84ms.
+[13:32:49.8628][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 247 has been processed.
+[13:32:49.8628][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 247 has been processed.
+[13:32:49.8628][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:49.9482][DEBUG]  ->  Player 21 saved in 80ms.
+[13:32:49.9482][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 248 has been processed.
+[13:32:49.9482][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.0282][DEBUG]  ->  Player 21 saved in 76ms.
+[13:32:50.0282][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 249 has been processed.
+[13:32:50.0282][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 249 has been processed.
+[13:32:50.0282][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.1070][DEBUG]  ->  Player 21 saved in 73ms.
+[13:32:50.1070][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 250 has been processed.
+[13:32:50.1070][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.1880][DEBUG]  ->  Player 21 saved in 75ms.
+[13:32:50.1880][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 251 has been processed.
+[13:32:50.1907][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 251 has been processed.
+[13:32:50.1907][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.2658][DEBUG]  ->  Player 21 saved in 72ms.
+[13:32:50.2658][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 252 has been processed.
+[13:32:50.2686][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.3467][DEBUG]  ->  Player 21 saved in 76ms.
+[13:32:50.3467][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 255 has been processed.
+[13:32:50.3467][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 255 has been processed.
+[13:32:50.3467][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.4358][DEBUG]  ->  Player 21 saved in 83ms.
+[13:32:50.4358][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 256 has been processed.
+[13:32:50.4358][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.5098][DEBUG]  ->  Player 21 saved in 69ms.
+[13:32:50.5098][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 257 has been processed.
+[13:32:50.5098][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 257 has been processed.
+[13:32:50.5098][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.5880][DEBUG]  ->  Player 21 saved in 73ms.
+[13:32:50.5880][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 259 has been processed.
+[13:32:50.5880][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:50.6732][DEBUG]  ->  Player 21 saved in 81ms.
+[13:32:52.1913][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 298 has been processed.
+[13:32:52.1913][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:52.2719][DEBUG]  ->  Player 21 saved in 77ms.
+[13:32:54.1588][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:54.1588][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:54.1588][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:54.1753][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:54.1753][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:57.2851][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:32:59.1753][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:59.1753][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:32:59.1753][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:32:59.1925][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:32:59.1925][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:04.1862][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:04.1862][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:04.1862][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:04.2039][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:04.2039][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:07.2827][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:33:09.2026][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:09.2026][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:09.2059][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:09.2059][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:09.2214][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:14.2120][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:14.2120][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:14.2221][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:14.2221][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:14.2221][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:17.2867][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:33:19.2261][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:19.2261][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:19.2261][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:19.2429][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:19.2429][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:24.2303][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:24.2303][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:24.2303][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:24.2478][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:24.2478][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:27.2737][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:33:29.2416][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:29.2416][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:29.2416][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:29.2590][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:29.2590][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:34.2535][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:34.2535][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:34.2535][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:34.2757][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:34.2757][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:37.2741][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:33:39.2602][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:39.2602][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:39.2602][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:39.2772][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:39.2772][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:44.2658][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:44.2658][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:44.2687][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:44.2687][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:44.2842][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:47.2783][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:33:49.2807][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:49.2807][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:49.2848][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:49.2848][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:49.2999][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:54.2819][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:54.2819][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:54.2850][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:54.3023][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:54.3023][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:57.2879][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:33:59.2882][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:59.2882][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:33:59.2882][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:33:59.3051][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:33:59.3051][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:04.2936][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:04.2936][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:04.2936][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:04.3098][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:04.3098][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:07.2744][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:09.3055][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:09.3055][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:09.3055][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:09.3236][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:09.3236][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:14.3074][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:14.3074][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:14.3074][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:14.3242][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:14.3242][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:17.3111][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:19.3102][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:19.3102][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:19.3102][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:19.3281][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:19.3281][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:24.3114][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:24.3114][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:24.3114][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:24.3289][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:24.3302][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:27.3094][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:29.3266][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:29.3266][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:29.3266][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:29.3434][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:29.3434][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:34.3417][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:34.3417][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:34.3417][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:34.3585][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:34.3585][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:37.3028][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:39.3537][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:39.3537][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:39.3537][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:39.3747][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:39.3747][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:40.7654][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:41.2575][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:34:41.2575][DEBUG]  ->  Command 503 (LogicCollectSlotChestCommand) with Tick 2478 has been processed.
+[13:34:41.2575][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:41.3565][DEBUG]  ->  Player 21 saved in 95ms.
+[13:34:41.3565][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:34:41.3565][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:34:41.3565][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:41.3941][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2481 has been processed.
+[13:34:41.3941][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2481 has been processed.
+[13:34:41.3941][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:41.4734][DEBUG]  ->  Player 21 saved in 75ms.
+[13:34:41.5604][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2484 has been processed.
+[13:34:41.5604][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:41.6363][DEBUG]  ->  Player 21 saved in 73ms.
+[13:34:41.6989][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2487 has been processed.
+[13:34:41.6989][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2487 has been processed.
+[13:34:41.6989][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:41.7816][DEBUG]  ->  Player 21 saved in 78ms.
+[13:34:44.3563][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:44.3563][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:44.3563][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:44.3730][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:44.3730][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:47.3146][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:49.3643][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:49.3643][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:49.3643][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:49.3824][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:49.3824][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:54.3707][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:54.3707][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:54.3707][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:54.3872][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:54.3872][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:57.3035][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:34:59.3727][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:59.3727][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:34:59.3775][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:34:59.3775][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:34:59.3775][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:02.8666][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2910 has been processed.
+[13:35:02.8666][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:02.9493][DEBUG]  ->  Player 21 saved in 79ms.
+[13:35:03.3100][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2919 has been processed.
+[13:35:03.3100][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:03.3949][DEBUG]  ->  Player 21 saved in 82ms.
+[13:35:03.7155][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2927 has been processed.
+[13:35:03.7155][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2927 has been processed.
+[13:35:03.7155][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:03.8043][DEBUG]  ->  Player 21 saved in 84ms.
+[13:35:04.3894][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:04.3894][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:04.3894][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:04.4062][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:04.4062][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:05.7649][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2968 has been processed.
+[13:35:05.7649][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2968 has been processed.
+[13:35:05.7675][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:05.8446][DEBUG]  ->  Player 21 saved in 76ms.
+[13:35:06.4244][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2982 has been processed.
+[13:35:06.4244][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:06.5092][DEBUG]  ->  Player 21 saved in 81ms.
+[13:35:06.7639][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2989 has been processed.
+[13:35:06.7639][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:06.8441][DEBUG]  ->  Player 21 saved in 77ms.
+[13:35:07.1075][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2995 has been processed.
+[13:35:07.1075][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 2995 has been processed.
+[13:35:07.1075][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:07.1852][DEBUG]  ->  Player 21 saved in 73ms.
+[13:35:07.3080][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:07.4086][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3001 has been processed.
+[13:35:07.4086][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:07.4949][DEBUG]  ->  Player 21 saved in 83ms.
+[13:35:07.5441][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3004 has been processed.
+[13:35:07.5441][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:07.6194][DEBUG]  ->  Player 21 saved in 72ms.
+[13:35:09.3909][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:09.3909][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:09.3941][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:09.3941][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:09.4102][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:10.0389][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3054 has been processed.
+[13:35:10.0389][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:10.1163][DEBUG]  ->  Player 21 saved in 74ms.
+[13:35:13.3990][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3121 has been processed.
+[13:35:13.3990][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3121 has been processed.
+[13:35:13.3990][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:13.4764][DEBUG]  ->  Player 21 saved in 73ms.
+[13:35:14.3963][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:14.3963][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:14.3963][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:14.4130][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:14.4130][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:14.7340][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3148 has been processed.
+[13:35:14.7340][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:14.8110][DEBUG]  ->  Player 21 saved in 74ms.
+[13:35:15.2444][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3158 has been processed.
+[13:35:15.2444][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3158 has been processed.
+[13:35:15.2444][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:15.3316][DEBUG]  ->  Player 21 saved in 82ms.
+[13:35:15.4770][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3163 has been processed.
+[13:35:15.4770][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:15.5586][DEBUG]  ->  Player 21 saved in 78ms.
+[13:35:15.9381][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3172 has been processed.
+[13:35:15.9400][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3172 has been processed.
+[13:35:15.9400][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:16.0263][DEBUG]  ->  Player 21 saved in 83ms.
+[13:35:16.0263][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3173 has been processed.
+[13:35:16.0263][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:16.1065][DEBUG]  ->  Player 21 saved in 76ms.
+[13:35:16.1065][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 3174 has been processed.
+[13:35:16.1065][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:16.1965][DEBUG]  ->  Player 21 saved in 84ms.
+[13:35:18.3251][DEBUG]  ->  Player 21 saved in 85ms.
+[13:35:18.3251][DEBUG]  ->  Client 25.18.56.67:57364 disconnected.
+[13:35:23.4230][DEBUG]  ->  Client 25.18.56.67:49648 connected.
+[13:35:23.4949][DEBUG]  ->  Successfully got player 21 from cache in 0ms
+[13:35:23.4949][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[13:35:23.5712][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[13:35:23.5712][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[13:35:23.5712][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[13:35:30.6195][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:30.6195][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:30.6195][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:32.1520][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:35:32.1520][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:35:32.1520][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:32.1520][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:32.1608][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:32.1608][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[13:35:32.1760][DEBUG]  ->  [S] Message 24304 (JoinableAllianceListMessage) sent.
+[13:35:32.1760][DEBUG]  ->  [C] Message 14303 (AskForJoinableAlliancesListMessage) handled.
+[13:35:32.3063][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:32.3063][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:32.3063][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[13:35:36.9986][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:36.9986][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:36.9986][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:37.0167][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:37.0184][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:42.0091][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:42.0091][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:42.0091][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:42.0309][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:42.0309][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:42.2143][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:47.0186][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:47.0186][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:47.0186][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:47.0468][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:47.0468][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:52.0231][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:52.0231][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[13:35:52.0231][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[13:35:52.0403][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:52.0403][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[13:35:52.2094][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:52.2680][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:53.1570][DEBUG]  ->  [S] Message 24111 (AvailableServerCommand) sent.
+[13:35:53.1588][DEBUG]  ->  Command 503 (LogicCollectSlotChestCommand) with Tick 418 has been processed.
+[13:35:53.1588][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:53.2606][DEBUG]  ->  Player 21 saved in 98ms.
+[13:35:53.2606][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[13:35:53.2606][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[13:35:53.2606][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:53.2859][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 421 has been processed.
+[13:35:53.2859][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:53.3612][DEBUG]  ->  Player 21 saved in 72ms.
+[13:35:53.4715][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 424 has been processed.
+[13:35:53.4715][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:53.5466][DEBUG]  ->  Player 21 saved in 72ms.
+[13:35:53.6192][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 428 has been processed.
+[13:35:53.6192][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:53.7003][DEBUG]  ->  Player 21 saved in 78ms.
+[13:35:55.3199][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 461 has been processed.
+[13:35:55.3199][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:55.4082][DEBUG]  ->  Player 21 saved in 85ms.
+[13:35:55.5671][DEBUG]  ->  Command 526 (LogicChestNextCardCommand) with Tick 466 has been processed.
+[13:35:55.5671][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[13:35:55.6560][DEBUG]  ->  Player 21 saved in 86ms.
+[13:35:57.1505][DEBUG]  ->  Player 21 saved in 80ms.
+[13:35:57.1505][DEBUG]  ->  Client 25.18.56.67:49648 disconnected.
+[13:36:44.1668][DEBUG]  ->  Client 25.18.56.67:59835 connected.
+[13:36:44.6000][DEBUG]  ->  Client 25.18.56.67:59835 disconnected.
+[13:41:59.4821][DEBUG]  ->  Client 25.18.56.67:61063 connected.
+[13:41:59.8553][DEBUG]  ->  Client 25.18.56.67:61063 disconnected.
+[13:47:46.9948][DEBUG]  ->  Client 25.18.56.67:61208 connected.
+[13:47:47.3596][DEBUG]  ->  Client 25.18.56.67:61208 disconnected.

@@ -1,0 +1,30 @@
+[10:52:19.4851][INFO]  ->  Starting [10:52:19 - Windows]...
+[10:52:19.8587][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[10:52:20.2194][INFO]  ->  52 Gamefiles loaded.
+[10:52:20.8216][INFO]  ->  MysqlConnection for players failed [sql7.freemysqlhosting.net]!
+[10:52:30.7632][INFO]  ->  Starting [10:52:30 - Windows]...
+[10:52:31.0072][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[10:52:31.3298][INFO]  ->  52 Gamefiles loaded.
+[10:52:31.9603][INFO]  ->  MysqlConnection for players failed [sql7.freemysqlhosting.net]!
+[10:55:14.8822][INFO]  ->  Starting [10:55:14 - Windows]...
+[10:55:15.0965][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[10:55:15.4407][INFO]  ->  52 Gamefiles loaded.
+[10:55:15.8143][INFO]  ->  MysqlConnection for players failed [sql7.freemysqlhosting.net]!
+[10:59:55.1431][INFO]  ->  Starting [10:59:55 - Windows]...
+[10:59:55.3951][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[10:59:55.7235][INFO]  ->  52 Gamefiles loaded.
+[10:59:56.0415][INFO]  ->  MysqlConnection for players failed [sql7.freemysqlhosting.net]!
+[11:00:48.7899][INFO]  ->  Starting [11:00:48 - Windows]...
+[11:00:48.9141][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[11:00:49.1465][INFO]  ->  52 Gamefiles loaded.
+[11:00:49.9129][INFO]  ->  Successfully loaded MySql with 0 player(s) & 0 clan(s)
+[11:00:49.9241][INFO]  ->  Successfully loaded caches
+[11:00:49.9241][INFO]  ->  Press any key to shutdown the server.
+[11:00:50.0609][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:06:28.6045][INFO]  ->  Starting [11:06:28 - Windows]...
+[11:06:28.8530][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[11:06:29.2324][INFO]  ->  52 Gamefiles loaded.
+[11:06:30.2165][INFO]  ->  Successfully loaded MySql with 1 player(s) & 0 clan(s)
+[11:06:30.2492][INFO]  ->  Successfully loaded caches
+[11:06:30.2560][INFO]  ->  Press any key to shutdown the server.
+[11:06:30.7188][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!

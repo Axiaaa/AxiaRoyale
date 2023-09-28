@@ -4,6 +4,7 @@ using System.Linq;
 using ClashRoyale.Database;
 using ClashRoyale.Extensions;
 using ClashRoyale.Logic.Battle;
+using ClashRoyale.Logic.Home.Chests;
 using ClashRoyale.Logic.Home.StreamEntry;
 using ClashRoyale.Protocol.Messages.Server;
 using ClashRoyale.Protocol.Commands.Client;
@@ -16,14 +17,21 @@ using ClashRoyale.Core.Leaderboards;
 using NLog.LayoutRenderers;
 using ClashRoyale.Logic.Home;
 using System.Runtime.CompilerServices;
-
+using System.Text;
+using System.Collections.Generic;
+using ClashRoyale;
 
 namespace ClashRoyale.Logic
 {
     public class Player
     {
+       
+        public long Id { get; set; }
+        Leaderboard leaderboard = Resources.Leaderboard;
+
         public Player(long id)
         {
+            Id = id;
             Home = new Home.Home(id, GameUtils.GenerateToken);
         }
 
@@ -33,7 +41,7 @@ namespace ClashRoyale.Logic
         }
 
         public Home.Home Home { get; set; }
-
+        
         [JsonIgnore] public LogicBattle Battle { get; set; }
         [JsonIgnore] public Device Device { get; set; }
         
@@ -230,34 +238,93 @@ namespace ClashRoyale.Logic
                 }
 
 
-
              
-                
+                packet.WriteVInt(4);
+                {
+                    int[] chestClassID = new int[8];
+                    chestClassID[0] = 242;
+                    chestClassID[1] = 232;
+                    chestClassID[2] = 235;
+                    chestClassID[3] = 225;
+                    chestClassID[4] = 224;
+                    chestClassID[5] = 228;
+                    chestClassID[6] = 114;
+
+
+                    Random rnd = new Random();
+                    var chest_1 = chestClassID[rnd.Next(0, 7)];
+                    var chest_2 = chestClassID[rnd.Next(0, 7)];
+                    var chest_3 = chestClassID[rnd.Next(0, 7)];
+                    var chest_4 = chestClassID[rnd.Next(0, 7)];
+
+                    packet.WriteVInt(3);
+                    packet.WriteVInt(19); // Instance Id
+                    packet.WriteVInt(chest_1); // Class Id 
+                    packet.WriteBoolean(false); // Unlocked // 8 - unlocking -> timer
+                    packet.WriteVInt(0);
+                    packet.WriteVInt(0);
+                    packet.WriteVInt(0);
+                    packet.WriteVInt(999999); // Claimed
+                    packet.WriteVInt(999999); // New
+                    packet.WriteVInt(4);
+                    packet.WriteVInt(1);
+                    packet.WriteVInt(1);
+
+                    packet.WriteVInt(0);
+
 
                     packet.WriteVInt(4);
+                    packet.WriteVInt(19); // Instance Id
+                    packet.WriteVInt(chest_2); // Class Id 
+                    packet.WriteBoolean(false); // Unlocked // 8 - unlocking -> timer
+                    packet.WriteVInt(1);
+                    packet.WriteVInt(1);
+                    packet.WriteVInt(1);
+                    packet.WriteVInt(999999); // Claimed
+                    packet.WriteVInt(999999); // New
+                    packet.WriteVInt(4);
+                    packet.WriteVInt(1);
+                    packet.WriteVInt(1);
 
-                    // Chests
-                    {
 
-                        packet.WriteVInt(1);
-                        packet.WriteVInt(19); // Instance Id
-                        packet.WriteVInt(152); // Class Id 
-                        packet.WriteVInt(8); // Unlocked // 8 - unlocking -> timer
+                    packet.WriteVInt(0);
 
-                        packet.WriteVInt(0);
-                        packet.WriteVInt(0);
-                        packet.WriteVInt(0);
 
-                        packet.WriteBoolean(false); // Claimed
-                        packet.WriteBoolean(false); // New
-                        packet.WriteVInt(1);
-                        packet.WriteVInt(1);
-                        packet.WriteVInt(1);
+                    packet.WriteVInt(6);
+                    packet.WriteVInt(19); // Instance Id
+                    packet.WriteVInt(chest_3); // Class Id 
+                    packet.WriteBoolean(false); // Unlocked // 8 - unlocking -> timer
+                    packet.WriteVInt(2);
+                    packet.WriteVInt(0);
+                    packet.WriteVInt(0);
+                    packet.WriteVInt(999999); // Claimed
+                    packet.WriteVInt(999999); // New
+                    packet.WriteVInt(4);
+                    packet.WriteVInt(1);
+                    packet.WriteVInt(1);
 
-                        packet.WriteVInt(0);
-                    }
-                
-                            
+
+                    packet.WriteVInt(0);
+
+
+                    packet.WriteVInt(7);
+                    packet.WriteVInt(19); // Instance Id
+                    packet.WriteVInt(chest_4); // Class Id 
+                    packet.WriteBoolean(false); // Unlocked // 8 - unlocking -> timer
+                    packet.WriteVInt(3);
+                    packet.WriteVInt(0);
+                    packet.WriteVInt(0);
+                    packet.WriteVInt(999999); // Claimed
+                    packet.WriteVInt(999999); // New
+                    packet.WriteVInt(4);
+                    packet.WriteVInt(1);
+                    packet.WriteVInt(1);
+
+                    packet.WriteVInt(0);
+
+
+                }
+
 
                 // FreeChest Timer
                 if (!Home.IsFirstFreeChestAvailable())
@@ -511,18 +578,19 @@ namespace ClashRoyale.Logic
                 packet.WriteVInt(Home.Arena.CurrentArena + 1); // Arena 
                 packet.WriteVInt(Home.Arena.Trophies); // Trophies 
 
-                packet.WriteVInt(0);
-                packet.WriteVInt(0);
+                packet.WriteVInt(1);
+                packet.WriteVInt(1);
                 packet.WriteVInt(Home.Arena.LTrophies); // Legendary Trophies
 
                 if (Home.Arena.Trophies >= 4000)
                 {
-                    packet.WriteVInt(Home.Arena.Trophies); // Current Season Trophies
-                    packet.WriteVInt(0); //??
-                    packet.WriteVInt(1); // Current season place in the top
+
+                    packet.WriteVInt(Home.Arena.Trophies); //Currentt Season Trophies
+                    packet.WriteVInt(2); //??
+                    packet.WriteVInt(leaderboard.GetPlayerRankingById((int)Home.Id)); // Current season place in the top
 
                     packet.WriteVInt(Home.Arena.Trophies); // Best Season Trophies
-                    packet.WriteVInt(Home.Arena.CurrentArena+ 1); // Rank
+                    packet.WriteVInt(Home.Arena.CurrentArena + 1); // Rank
                     packet.WriteVInt(0); // Trophies??
                 }
                 else

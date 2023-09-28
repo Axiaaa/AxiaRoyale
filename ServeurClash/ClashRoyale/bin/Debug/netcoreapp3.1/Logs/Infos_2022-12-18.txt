@@ -1,0 +1,7 @@
+[13:23:02.2979][INFO]  ->  Starting [13:23:02 - Windows]...
+[13:23:02.5426][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[13:23:02.8068][INFO]  ->  52 Gamefiles loaded.
+[13:23:04.5597][INFO]  ->  Successfully loaded MySql with 20 player(s) & 9 clan(s)
+[13:23:04.6072][INFO]  ->  Successfully loaded caches
+[13:23:04.6125][INFO]  ->  Press any key to shutdown the server.
+[13:23:05.4990][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!

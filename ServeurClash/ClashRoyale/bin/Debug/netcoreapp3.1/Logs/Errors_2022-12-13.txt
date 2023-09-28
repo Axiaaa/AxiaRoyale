@@ -1,0 +1,6 @@
+[18:16:05.4924][ERROR]  ->  System.Net.Sockets.SocketException (10053): Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[18:27:37.6785][ERROR]  ->  System.Net.Sockets.SocketException (10053): Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)

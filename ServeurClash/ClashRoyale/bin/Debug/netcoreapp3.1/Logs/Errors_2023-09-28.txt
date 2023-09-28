@@ -1,0 +1,80 @@
+[15:37:41.1301][ERROR]  ->  Couldn't track location of 25.26.8.193
+[15:38:07.9750][ERROR]  ->  Couldn't track location of 25.26.8.193
+[15:42:13.3158][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:08:19.5196][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:12:39.5660][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:13:30.3509][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:15:43.7969][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:18:16.8942][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:19:41.9447][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:21:04.2915][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:22:22.3476][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:23:15.8955][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:24:14.3924][ERROR]  ->  Couldn't track location of 25.26.8.193
+[16:24:46.6943][ERROR]  ->  Couldn't track location of 25.26.8.193
+[17:22:52.9994][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[17:53:16.9903][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[18:05:27.2936][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[18:13:56.9050][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[18:14:02.7800][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[18:18:27.9279][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[19:13:13.0133][ERROR]  ->  MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at ClashRoyale.Database.PlayerDb.GetLocalPlayerRankingAsync(String language) in C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\Database\PlayerDb.cs:line 347
+[19:13:54.4162][ERROR]  ->  MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at ClashRoyale.Database.PlayerDb.GetGlobalPlayerRankingAsync() in C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\Database\PlayerDb.cs:line 310
+[19:14:18.2243][ERROR]  ->  MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at ClashRoyale.Database.PlayerDb.GetGlobalPlayerRankingAsync() in C:\Users\hcame\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale\Database\PlayerDb.cs:line 310

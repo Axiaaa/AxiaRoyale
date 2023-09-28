@@ -38,3 +38,13 @@ N:\Download\Test-Royale\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard
 N:\Download\Test-Royale\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.csproj.CoreCompileInputs.cache
 N:\Download\Test-Royale\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.dll
 N:\Download\Test-Royale\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.pdb
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\bin\Debug\netstandard2.1\ClashRoyale.Utilities.deps.json
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\bin\Debug\netstandard2.1\ClashRoyale.Utilities.dll
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\bin\Debug\netstandard2.1\ClashRoyale.Utilities.pdb
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.csproj.AssemblyReference.cache
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.AssemblyInfoInputs.cache
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.AssemblyInfo.cs
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.dll
+C:\Users\bruh\OneDrive\Bureau\Documents\Master Royale\Serveur privé public\Test-Royale\Ventilo\ServeurClash\ClashRoyale.Utilities\obj\Debug\netstandard2.1\ClashRoyale.Utilities.pdb

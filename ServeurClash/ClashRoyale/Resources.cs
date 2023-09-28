@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using ClashRoyale.Core;
+using ClashRoyale;
 using ClashRoyale.Core.Cluster;
 using ClashRoyale.Core.Leaderboards;
 using ClashRoyale.Core.Network;
@@ -12,7 +13,7 @@ using ClashRoyale.Utilities.Utils;
 
 namespace ClashRoyale
 {
-    public static class Resources
+    public class Resources
     {
         public static Logger Logger { get; set; }
         public static SentryReport Sentry { get; set; }
@@ -72,7 +73,6 @@ namespace ClashRoyale
             Alliances = new Alliances();
 
             Leaderboard = new Leaderboard();
-
             StartTime = DateTime.UtcNow;
 
             Netty = new NettyService();

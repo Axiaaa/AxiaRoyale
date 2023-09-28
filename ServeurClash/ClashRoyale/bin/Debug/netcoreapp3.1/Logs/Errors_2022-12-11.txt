@@ -1,0 +1,137 @@
+[21:59:08.6013][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:34:59.6401][ERROR]  ->  DotNetty.Codecs.TooLongFrameException: Adjusted frame length exceeds 512: 2388 - discarded
+   at DotNetty.Codecs.LengthFieldBasedFrameDecoder.Fail(Int64 frameLength)
+   at DotNetty.Codecs.LengthFieldBasedFrameDecoder.FailIfNecessary(Boolean firstDetectionOfTooLongFrame)
+   at DotNetty.Codecs.LengthFieldBasedFrameDecoder.Decode(IChannelHandlerContext context, IByteBuffer input)
+   at DotNetty.Codecs.LengthFieldBasedFrameDecoder.Decode(IChannelHandlerContext context, IByteBuffer input, List`1 output)
+   at DotNetty.Codecs.ByteToMessageDecoder.CallDecode(IChannelHandlerContext context, IByteBuffer input, List`1 output)
+   at DotNetty.Codecs.ByteToMessageDecoder.ChannelRead(IChannelHandlerContext context, Object message)
+   at DotNetty.Transport.Channels.AbstractChannelHandlerContext.InvokeChannelRead(Object msg)
+[22:39:58.2484][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:40:04.5945][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:47:17.0955][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:47:23.2294][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:48:30.5790][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:49:15.6931][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:49:39.0498][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:50:02.4526][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:53:01.0370][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:55:10.8629][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:55:39.9385][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:57:28.6605][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:57:47.3733][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:58:16.7638][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:58:42.7024][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:59:02.2161][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[22:59:19.2610][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:05:16.2255][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:05:53.0730][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:07:28.7704][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:08:55.2168][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:11:29.4568][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:11:52.2825][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:13:49.1890][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:28:12.8401][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:30:23.4600][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:31:36.2029][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:32:00.4315][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:36:08.4221][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:36:29.9089][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:36:53.1816][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:37:22.4725][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:37:44.9674][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:38:03.1250][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:38:25.8091][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:39:08.0888][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:39:32.5817][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:45:06.8346][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:47:06.7405][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:50:19.8774][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:55:16.4314][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[23:59:12.6616][ERROR]  ->  System.Net.Sockets.SocketException (10054): Une connexion existante a dû être fermée par l’hôte distant.
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)

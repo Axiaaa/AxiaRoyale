@@ -12,6 +12,7 @@
   <ItemGroup>
     <Compile Remove="Logic\Home\Chests\Class1.cs" />
     <Compile Remove="Logic\Home\Chests\Items\ChestSlot.cs" />
+    <Compile Remove="Protocol\Commands\Client\LogicSellChestCommand.cs" />
   </ItemGroup>
 
   <ItemGroup>

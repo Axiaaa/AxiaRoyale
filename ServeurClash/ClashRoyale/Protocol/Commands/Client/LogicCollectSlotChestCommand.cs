@@ -19,6 +19,8 @@ namespace ClashRoyale.Protocol.Commands.Client
 
         {
         }
+
+        public int InstanceId { get; set; }
         public override void Decode()
         {
             
@@ -30,18 +32,22 @@ namespace ClashRoyale.Protocol.Commands.Client
             chestID = Reader.ReadVInt();
             Console.WriteLine($"[Debug] [C] Slot Chest opened by {Device.Player.Home.Name}, {Device.Player.Home.Id} ");
             
+            
         }
         public override async void Process()
         {
-            var home = Device.Player.Home;
-            
+            var chest = Device.Player.Home.Chests.BuyChest(InstanceId, Chest.ChestType.Slot);
+
             await new AvailableServerCommand(Device)
-            {   
+            {
                 Command = new ChestDataCommand(Device)
-                {       
-                    Chest = Device.Player.Home.Chests.BuyChest(1, Chest.ChestType.Slot)
-                }
+                {
+                    Chest = chest
+                 
+                } 
             }.SendAsync();
+
+            
             
         }
     }

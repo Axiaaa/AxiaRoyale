@@ -1,0 +1,191 @@
+[10:56:15.8795][DEBUG]  ->  Client 25.18.56.67:58658 connected.
+[10:56:16.2169][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[10:56:16.3465][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[10:56:16.3577][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[10:56:16.3577][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[10:56:16.4408][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[10:56:16.4466][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[10:56:17.1284][DEBUG]  ->  [S] Message 26101 (TournamentListMessage) sent.
+[10:56:17.1284][DEBUG]  ->  [C] Message 16103 (AskForTournamentListMessage) handled.
+[10:56:17.1464][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[10:56:17.1485][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[10:56:17.1485][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[10:56:17.1485][DEBUG]  ->  [S] Message 24405 (RoyalTvContentMessage) sent.
+[10:56:17.1485][DEBUG]  ->  [C] Message 14402 (AskForTvContentMessage) handled.
+[10:56:17.1485][DEBUG]  ->  [C] Message 14406 (AskForBattleReplayStreamMessage) handled.
+[10:56:17.1844][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
+[10:56:17.1844][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
+[10:56:17.7890][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[10:56:17.7890][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[10:56:17.7890][DEBUG]  ->  [C] Message 10113 (SetDeviceTokenMessage) handled.
+[10:56:18.9284][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[10:56:21.7763][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[10:56:21.7763][DEBUG]  ->  [S] Message 20108 (KeepAliveOkMessage) sent.
+[10:56:21.7763][DEBUG]  ->  [C] Message 10108 (KeepAliveMessage) handled.
+[10:56:21.7975][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[10:56:21.7975][DEBUG]  ->  [C] Message 10107 (ClientCapabilitiesMessage) handled.
+[10:56:22.1310][DEBUG]  ->  Player 20 saved in 179ms.
+[10:56:22.2077][DEBUG]  ->  Alliance 9 saved in 71ms.
+[10:56:22.2093][DEBUG]  ->  Client 25.18.56.67:58658 disconnected.
+[10:56:30.1900][DEBUG]  ->  Client 25.18.56.67:58685 connected.
+[10:56:31.1062][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[10:56:31.1062][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[10:56:31.1836][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[10:56:31.1836][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[10:56:31.1836][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[10:56:31.1836][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[10:56:31.1836][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[10:56:31.1836][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[10:56:32.8420][DEBUG]  ->  Player 20 saved in 108ms.
+[10:56:32.9161][DEBUG]  ->  Alliance 9 saved in 71ms.
+[10:56:32.9161][DEBUG]  ->  Client 25.18.56.67:58685 disconnected.
+[10:56:38.8166][DEBUG]  ->  Client 25.18.56.67:58695 connected.
+[10:56:38.8741][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[10:56:38.8741][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[10:56:38.9643][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[10:56:38.9643][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[10:56:38.9643][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[10:56:38.9643][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[10:56:38.9643][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[10:56:38.9743][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[10:56:40.3220][DEBUG]  ->  Player 20 saved in 89ms.
+[10:56:40.3930][DEBUG]  ->  Alliance 9 saved in 68ms.
+[10:56:40.3960][DEBUG]  ->  Client 25.18.56.67:58695 disconnected.
+[11:03:01.6689][DEBUG]  ->  Client 25.18.56.67:58142 connected.
+[11:03:01.7381][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[11:03:01.7421][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[11:03:01.8294][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[11:03:01.8294][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[11:03:01.8294][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[11:03:01.8351][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[11:03:01.8351][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[11:03:01.8351][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[11:03:03.1644][DEBUG]  ->  Player 20 saved in 91ms.
+[11:03:03.2414][DEBUG]  ->  Alliance 9 saved in 75ms.
+[11:03:03.2414][DEBUG]  ->  Client 25.18.56.67:58142 disconnected.
+[11:09:26.6796][DEBUG]  ->  Client 25.18.56.67:58350 connected.
+[11:09:27.0938][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[11:09:27.0938][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[11:09:27.1790][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[11:09:27.1790][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[11:09:27.1790][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[11:09:27.1790][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[11:09:27.1790][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[11:09:27.1790][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[11:09:28.5692][DEBUG]  ->  Player 20 saved in 216ms.
+[11:09:28.6562][DEBUG]  ->  Alliance 9 saved in 84ms.
+[11:09:28.6562][DEBUG]  ->  Client 25.18.56.67:58350 disconnected.
+[11:13:48.6773][DEBUG]  ->  Client 25.18.56.67:58449 connected.
+[11:13:48.7341][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[11:13:48.7341][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[11:13:48.8176][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[11:13:48.8207][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[11:13:48.8207][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[11:13:48.8207][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[11:13:48.8207][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[11:13:48.8207][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[11:13:49.9535][DEBUG]  ->  Player 20 saved in 90ms.
+[11:13:50.0304][DEBUG]  ->  Alliance 9 saved in 74ms.
+[11:13:50.0304][DEBUG]  ->  Client 25.18.56.67:58449 disconnected.
+[11:32:34.2078][DEBUG]  ->  Client 25.18.56.67:60595 connected.
+[11:32:34.2687][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[11:32:34.2727][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[11:32:34.3605][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[11:32:34.3605][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[11:32:34.3605][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[11:32:34.3663][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[11:32:34.3663][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[11:32:34.3663][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[11:32:35.6230][DEBUG]  ->  Player 20 saved in 79ms.
+[11:32:35.6915][DEBUG]  ->  Alliance 9 saved in 66ms.
+[11:32:35.6941][DEBUG]  ->  Client 25.18.56.67:60595 disconnected.
+[11:36:51.4318][DEBUG]  ->  Client 25.18.56.67:60697 connected.
+[11:36:51.5002][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[11:36:51.5002][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[11:36:51.5794][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[11:36:51.5794][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[11:36:51.5850][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[11:36:51.5850][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[11:36:51.5850][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[11:36:51.5850][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[11:36:52.8730][DEBUG]  ->  Player 20 saved in 79ms.
+[11:36:52.9562][DEBUG]  ->  Alliance 9 saved in 81ms.
+[11:36:52.9562][DEBUG]  ->  Client 25.18.56.67:60697 disconnected.
+[18:57:31.0205][DEBUG]  ->  Client 25.18.56.67:54936 connected.
+[18:57:31.2722][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[18:57:31.3908][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[18:57:31.4154][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[18:57:31.4285][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[18:57:31.5449][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[18:57:31.5449][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[18:57:33.9073][DEBUG]  ->  Player 20 saved in 828ms.
+[18:57:33.9995][DEBUG]  ->  Alliance 9 saved in 84ms.
+[18:57:33.9995][DEBUG]  ->  Client 25.18.56.67:54936 disconnected.
+[18:58:12.1422][DEBUG]  ->  Client 25.18.56.67:64944 connected.
+[18:58:12.2292][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[18:58:12.2414][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[18:58:12.3379][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[18:58:12.3379][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[18:58:12.3379][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[18:58:12.3379][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[18:58:12.3379][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[18:58:12.3504][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[18:58:14.8559][DEBUG]  ->  Player 20 saved in 358ms.
+[18:58:14.9462][DEBUG]  ->  Alliance 9 saved in 84ms.
+[18:58:14.9462][DEBUG]  ->  Client 25.18.56.67:64944 disconnected.
+[18:58:23.7462][DEBUG]  ->  Client 25.18.56.67:64979 connected.
+[18:58:23.8313][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[18:58:23.8361][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[18:58:23.9258][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[18:58:23.9290][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[18:58:23.9290][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[18:58:23.9290][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[18:58:23.9290][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[18:58:23.9290][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[18:58:25.4899][DEBUG]  ->  Player 20 saved in 142ms.
+[18:58:25.6648][DEBUG]  ->  Alliance 9 saved in 170ms.
+[18:58:25.6648][DEBUG]  ->  Client 25.18.56.67:64979 disconnected.
+[18:59:03.0185][DEBUG]  ->  Client 25.18.56.67:65125 connected.
+[18:59:03.0890][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[18:59:03.0890][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[18:59:03.2045][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[18:59:03.3446][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[18:59:03.4965][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[18:59:03.5075][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[18:59:03.5075][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[18:59:03.5075][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[18:59:05.0851][DEBUG]  ->  Player 20 saved in 408ms.
+[18:59:05.1739][DEBUG]  ->  Alliance 9 saved in 86ms.
+[18:59:05.1739][DEBUG]  ->  Client 25.18.56.67:65125 disconnected.
+[19:02:49.0213][DEBUG]  ->  Client 25.18.56.67:65377 connected.
+[19:02:49.0921][DEBUG]  ->  Successfully got player 20 from cache in 0ms
+[19:02:49.0921][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[19:02:49.1691][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[19:02:49.1691][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[19:02:49.1691][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[19:02:49.1691][DEBUG]  ->  Successfully got alliance 9 from cache in 0ms
+[19:02:49.1691][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[19:02:49.1792][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[19:02:50.5865][DEBUG]  ->  Player 20 saved in 299ms.
+[19:02:50.8331][DEBUG]  ->  Alliance 9 saved in 158ms.
+[19:02:50.8455][DEBUG]  ->  Client 25.18.56.67:65377 disconnected.
+[19:05:43.8110][DEBUG]  ->  Client 25.18.56.67:65473 connected.
+[19:05:44.1843][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[19:05:44.2990][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[19:05:44.3070][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[19:05:44.3070][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[19:05:44.7744][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[19:05:44.7744][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[19:05:47.2529][DEBUG]  ->  Player 20 saved in 1617ms.
+[19:05:49.8494][DEBUG]  ->  Alliance 9 saved in 2593ms.
+[19:05:49.8494][DEBUG]  ->  Client 25.18.56.67:65473 disconnected.
+[19:12:58.9976][DEBUG]  ->  Client 25.18.56.67:52470 connected.
+[19:13:00.0408][DEBUG]  ->  [C] Message 10101 (LoginMessage) handled.
+[19:13:00.1370][DEBUG]  ->  [S] Message 20104 (LoginOkMessage) sent.
+[19:13:00.1370][DEBUG]  ->  [S] Message 24101 (OwnHomeDataMessage) sent.
+[19:13:00.1474][DEBUG]  ->  [S] Message 24411 (AvatarStreamMessage) sent.
+[19:13:00.2296][DEBUG]  ->  [S] Message 24311 (AllianceStreamMessage) sent.
+[19:13:00.2296][DEBUG]  ->  [S] Message 20207 (AllianceOnlineStatusUpdatedMessage) sent.
+[19:13:02.2540][DEBUG]  ->  Player 20 saved in 853ms.
+[19:13:02.3341][DEBUG]  ->  Alliance 9 saved in 77ms.
+[19:13:02.3357][DEBUG]  ->  Client 25.18.56.67:52470 disconnected.

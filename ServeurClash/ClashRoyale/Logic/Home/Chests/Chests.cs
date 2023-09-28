@@ -38,7 +38,7 @@ namespace ClashRoyale.Logic.Home.Chests
                             var card = Cards.RandomByArena(Card.Rarity.Common, chestArenas);
                             if (card == null) continue;
 
-                            card.Count = (random.Next(1, 300));
+                            card.Count = (random.Next(1, 300000));
                             card.IsNew = true;
                             chest.Add(card);
                             Home.Deck.Add(card);
@@ -56,11 +56,10 @@ namespace ClashRoyale.Logic.Home.Chests
                                 var card = Cards.RandomByArena(Card.Rarity.Common, chestArenas);
                                 if (card == null) continue;
 
-                                card.Count = (random.Next(1, 300));
+                                card.Count = (random.Next(1, 300000));
                                 card.IsNew = true;
                                 chest.Add(card);
                                 Home.Deck.Add(card);
-
                             }
                     }
                     else
@@ -110,7 +109,7 @@ namespace ClashRoyale.Logic.Home.Chests
                                 var card = Cards.RandomByArena(Card.Rarity.Rare, chestArenas);
                                 if (card == null) continue;
 
-                                card.Count = (random.Next(1, 300));
+                                card.Count = (random.Next(1, 300000));
                                 card.IsNew = true;
                                 chest.Add(card);
                                 Home.Deck.Add(card);
@@ -163,7 +162,7 @@ namespace ClashRoyale.Logic.Home.Chests
                                 var card = Cards.RandomByArena(Card.Rarity.Epic, chestArenas);
                                 if (card == null) continue;
 
-                                card.Count = (random.Next(1, 300));
+                                card.Count = (random.Next(1, 300000));
                                 card.IsNew = true;
                                 chest.Add(card);
                                 Home.Deck.Add(card);
@@ -217,7 +216,7 @@ namespace ClashRoyale.Logic.Home.Chests
                                 var card = Cards.RandomByArena(Card.Rarity.Legendary, chestArenas);
                                 if (card == null) continue;
 
-                                card.Count = (random.Next(1, 300));
+                                card.Count = (random.Next(1, 300000));
                                 card.IsNew = true;
                                 chest.Add(card);
                                 Home.Deck.Add(card);
@@ -249,41 +248,49 @@ namespace ClashRoyale.Logic.Home.Chests
             if (type == Chest.ChestType.Shop)
             {
                 // TODO: Cost
-                chest.Gems = 10000;
+                //chest.Gems = 10000;
+                chest.Gold = 10000;
             }
             else
             {
-                chest.Gems = 10000;
+                //chest.Gems = 10000;
+                chest.Gold = 10000;
             }
 
             if (type == Chest.ChestType.Slot)
             {
                 // TODO: Cost
-                chest.Gems = 10000;
+                //chest.Gems = 10000;
+                chest.Gold = 10000;
             }
             else
             {
-                chest.Gems = 10000;
+                //chest.Gems = 10000;
+                chest.Gold = 10000;
             }
 
             if (type == Chest.ChestType.Free)
             {
                 // TODO: Cost
-                chest.Gems = 10000;
+                //chest.Gems = 10000;
+                chest.Gold = 10000;
             }
             else
             {
-                chest.Gems = 10000;
+                //chest.Gems = 10000;
+                chest.Gold = 10000;
             }
 
             if (type == Chest.ChestType.Crown)
             {
                 // TODO: Cost
-                chest.Gems = 10000;
+                // chest.Gems = 10000;
+                chest.Gold = 10000;
             }
             else
             {
-                chest.Gems = 10000;
+                //chest.Gems = 10000;
+                chest.Gold = 10000;
             }
             Home.Gold += chest.Gold;
             Home.Diamonds += chest.Gems;

@@ -1,0 +1,15 @@
+[21:05:53.8583][INFO]  ->  Starting [21:05:53 - Windows]...
+[21:05:54.3045][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[21:05:54.8552][INFO]  ->  52 Gamefiles loaded.
+[21:05:58.6327][INFO]  ->  MysqlConnection for players failed [remotemysql.com]!
+[21:16:51.3481][INFO]  ->  Starting [21:16:51 - Windows]...
+[21:16:51.8588][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[21:16:52.2752][INFO]  ->  52 Gamefiles loaded.
+[21:16:53.1841][INFO]  ->  MysqlConnection for players failed [sql7.freesqldatabase.com]!
+[21:18:59.1535][INFO]  ->  Starting [21:18:59 - Windows]...
+[21:18:59.7189][INFO]  ->  Fingerprint [v3.377.1] loaded.
+[21:19:00.1652][INFO]  ->  52 Gamefiles loaded.
+[21:19:02.5429][INFO]  ->  Successfully loaded MySql with 0 player(s) & 0 clan(s)
+[21:19:02.5897][INFO]  ->  Successfully loaded caches
+[21:19:02.5897][INFO]  ->  Press any key to shutdown the server.
+[21:19:03.1901][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!

@@ -8,7 +8,7 @@ namespace ClashRoyale.Logic.Sessions
 {
     public class Location
     {
-        [JsonProperty("countryName")] public string CountryName { get; set; }
+        [JsonProperty("countryName")] public string CountryName { get; set; } 
         [JsonProperty("countryCode")] public string CountryCode { get; set; }
         [JsonProperty("cityName")] public string City { get; set; }
 
@@ -20,9 +20,8 @@ namespace ClashRoyale.Logic.Sessions
 
                 using (var client = new HttpClient())
                 {
-                    var httpClient = new HttpClient();
-                    var IP = await httpClient.GetStringAsync("https://freeipapi.com/api/json/" + ip);
-                    Console.WriteLine("Location correctly loaded");
+                    var IP = await client.GetStringAsync("https://freeipapi.com/api/json/" + ip);
+                    //Console.WriteLine("Location correctly loaded"); To test
                     return JsonConvert.DeserializeObject<Location>(IP);
                 }
             }

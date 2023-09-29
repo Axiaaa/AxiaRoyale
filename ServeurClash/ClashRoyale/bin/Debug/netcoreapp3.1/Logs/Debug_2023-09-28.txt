@@ -4292,3 +4292,6 @@
 [20:59:32.5950][DEBUG]  ->  [S] Message 24301 (AllianceDataMessage) sent.
 [20:59:32.5950][DEBUG]  ->  [C] Message 14302 (AskForAllianceDataMessage) handled.
 [20:59:32.6177][DEBUG]  ->  [C] Message 14102 (EndClientTurnMessage) handled.
+[21:00:02.6990][DEBUG]  ->  Player 6 saved in 82ms.
+[21:00:02.7534][DEBUG]  ->  Alliance 3 saved in 51ms.
+[21:00:02.7534][DEBUG]  ->  Client 25.26.8.193:48652 disconnected.

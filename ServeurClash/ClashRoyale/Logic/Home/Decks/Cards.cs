@@ -130,13 +130,13 @@ namespace ClashRoyale.Logic.Home.Decks
         /// Returns a random card
         /// </summary>
         /// <returns></returns>
-        public static Card Random()
+        public Card Random()
         {
             Card card = null;
 
             var random = new Random();
 
-            switch (random.Next(26, 29))
+            switch (random.Next(23, 29))
             {
                 case 26:
                     {
@@ -145,7 +145,27 @@ namespace ClashRoyale.Logic.Home.Decks
 
                         break;
                     }
+                case 24:
+                    {
+                        if (_spellsCharacters.ElementAt(random.Next(0, _spellsCharacters.Length)) is SpellsCharacters c)
+                            card = new Card(26, c.GetInstanceId(), false);
 
+                        break;
+                    }
+                case 25:
+                    {
+                        if (_spellsCharacters.ElementAt(random.Next(0, _spellsCharacters.Length)) is SpellsCharacters c)
+                            card = new Card(26, c.GetInstanceId(), false);
+
+                        break;
+                    }
+                case 23:
+                    {
+                        if (_spellsCharacters.ElementAt(random.Next(0, _spellsCharacters.Length)) is SpellsCharacters c)
+                            card = new Card(26, c.GetInstanceId(), false);
+
+                        break;
+                    }
                 case 27:
                     {
                         if (_spellsBuildings.ElementAt(random.Next(0, _spellsBuildings.Length)) is SpellsBuildings c)

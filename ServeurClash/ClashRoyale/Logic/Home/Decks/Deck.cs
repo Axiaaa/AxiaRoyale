@@ -5,6 +5,7 @@ using ClashRoyale.Logic.Home.Decks.Items;
 using ClashRoyale.Utilities.Netty;
 using DotNetty.Buffers;
 using Newtonsoft.Json;
+using static ClashRoyale.Logic.Home.Decks.Items.Card;
 
 namespace ClashRoyale.Logic.Home.Decks
 {
@@ -209,6 +210,23 @@ namespace ClashRoyale.Logic.Home.Decks
         {
             var card = GetCard(classId, instanceId);
             card.IsNew = false;
+        }
+
+
+        public Deck GenerateRandomDeck()
+        {
+            Deck randomDeck = new Deck();
+
+            for (int i = 0; i < 8; i++)
+            {
+                var card = Cards.Random(Card.Rarity.Common); // Utilisez votre méthode Random() pour obtenir une carte aléatoire.
+                Console.WriteLine(card.InstanceId);
+                card.InstanceId = i; // Assurez-vous que l'InstanceId est unique pour chaque carte.
+                Console.WriteLine(card.InstanceId);
+                randomDeck.Add(card); // Ajoutez la carte au deck aléatoire.
+            }
+
+            return randomDeck;
         }
     }
 }

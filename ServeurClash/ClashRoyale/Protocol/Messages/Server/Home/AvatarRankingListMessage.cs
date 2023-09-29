@@ -30,8 +30,8 @@ namespace ClashRoyale.Protocol.Messages.Server
                 Writer.WriteVInt(player.Home.Arena.Trophies);
                 Writer.WriteVInt(999);
 
-                Writer.WriteVInt(0);
-                Writer.WriteVInt(0);
+                Writer.WriteVInt(1);
+                Writer.WriteVInt(1);
                 Writer.WriteVInt(0);
 
                 player.RankingEntry(Writer);

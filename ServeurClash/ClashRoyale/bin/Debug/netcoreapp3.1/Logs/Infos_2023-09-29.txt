@@ -1,0 +1,425 @@
+[09:50:35.6059][INFO]  ->  Starting [09:50:35 - Windows]...
+[09:50:35.8264][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[09:50:36.1401][INFO]  ->  52 Gamefiles loaded.
+[09:50:37.4042][INFO]  ->  Successfully loaded MySql with 4 player(s) & 3 clan(s)
+[09:50:37.4647][INFO]  ->  Successfully loaded caches
+[09:50:37.4717][INFO]  ->  Press any key to shutdown the server.
+[09:50:38.3178][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[10:13:05.9626][INFO]  ->  Starting [10:13:05 - Windows]...
+[10:13:06.2079][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[10:13:06.4777][INFO]  ->  52 Gamefiles loaded.
+[10:13:07.4883][INFO]  ->  Successfully loaded MySql with 4 player(s) & 3 clan(s)
+[10:13:07.5438][INFO]  ->  Successfully loaded caches
+[10:13:07.5438][INFO]  ->  Press any key to shutdown the server.
+[10:13:08.2000][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[10:32:23.1631][INFO]  ->  Starting [10:32:23 - Windows]...
+[10:32:23.3914][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[10:32:23.6708][INFO]  ->  52 Gamefiles loaded.
+[10:32:24.6904][INFO]  ->  Successfully loaded MySql with 4 player(s) & 3 clan(s)
+[10:32:24.7295][INFO]  ->  Successfully loaded caches
+[10:32:24.7358][INFO]  ->  Press any key to shutdown the server.
+[10:32:25.3608][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[10:33:21.1313][INFO]  ->  Starting [10:33:21 - Windows]...
+[10:33:21.4108][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[10:33:21.7682][INFO]  ->  52 Gamefiles loaded.
+[10:33:22.7463][INFO]  ->  Successfully loaded MySql with 4 player(s) & 3 clan(s)
+[10:33:22.7837][INFO]  ->  Successfully loaded caches
+[10:33:22.7837][INFO]  ->  Press any key to shutdown the server.
+[10:33:23.4652][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[10:33:35.8838][INFO]  ->  Starting [10:33:35 - Windows]...
+[10:33:36.1624][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[10:33:36.4104][INFO]  ->  52 Gamefiles loaded.
+[10:33:37.3874][INFO]  ->  Successfully loaded MySql with 4 player(s) & 3 clan(s)
+[10:33:37.4261][INFO]  ->  Successfully loaded caches
+[10:33:37.4261][INFO]  ->  Press any key to shutdown the server.
+[10:33:38.1319][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[10:51:34.8546][INFO]  ->  Starting [10:51:34 - Windows]...
+[10:51:35.0792][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[10:51:35.3104][INFO]  ->  52 Gamefiles loaded.
+[10:51:36.3036][INFO]  ->  Successfully loaded MySql with 4 player(s) & 3 clan(s)
+[10:51:36.3428][INFO]  ->  Successfully loaded caches
+[10:51:36.3428][INFO]  ->  Press any key to shutdown the server.
+[10:51:37.0138][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[10:55:08.7815][INFO]  ->  Starting [10:55:08 - Windows]...
+[10:55:08.9735][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[10:55:09.2713][INFO]  ->  52 Gamefiles loaded.
+[10:55:10.2039][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[10:55:10.2557][INFO]  ->  Successfully loaded caches
+[10:55:10.2557][INFO]  ->  Press any key to shutdown the server.
+[10:55:10.9160][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[10:55:48.5101][INFO]  ->  Starting [10:55:48 - Windows]...
+[10:55:48.8156][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[10:55:49.0569][INFO]  ->  52 Gamefiles loaded.
+[10:55:50.1077][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[10:55:50.1622][INFO]  ->  Successfully loaded caches
+[10:55:50.1691][INFO]  ->  Press any key to shutdown the server.
+[10:55:50.8214][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:06:41.3356][INFO]  ->  Starting [11:06:41 - Windows]...
+[11:06:41.5879][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:06:41.8714][INFO]  ->  52 Gamefiles loaded.
+[11:06:42.8648][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:06:42.9055][INFO]  ->  Successfully loaded caches
+[11:06:42.9055][INFO]  ->  Press any key to shutdown the server.
+[11:06:43.6158][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:11:14.1940][INFO]  ->  Starting [11:11:14 - Windows]...
+[11:11:14.4101][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:11:14.6455][INFO]  ->  52 Gamefiles loaded.
+[11:11:15.6693][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:11:15.7071][INFO]  ->  Successfully loaded caches
+[11:11:15.7071][INFO]  ->  Press any key to shutdown the server.
+[11:11:16.3687][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:12:53.3292][INFO]  ->  Starting [11:12:53 - Windows]...
+[11:12:53.5849][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:12:53.7991][INFO]  ->  52 Gamefiles loaded.
+[11:12:54.8456][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:12:54.8879][INFO]  ->  Successfully loaded caches
+[11:12:54.8879][INFO]  ->  Press any key to shutdown the server.
+[11:12:55.5264][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:15:36.0377][INFO]  ->  Starting [11:15:36 - Windows]...
+[11:15:36.2900][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:15:36.5486][INFO]  ->  52 Gamefiles loaded.
+[11:15:37.5336][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:15:37.5721][INFO]  ->  Successfully loaded caches
+[11:15:37.5783][INFO]  ->  Press any key to shutdown the server.
+[11:15:38.2286][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:17:38.4098][INFO]  ->  Starting [11:17:38 - Windows]...
+[11:17:38.6109][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:17:38.8418][INFO]  ->  52 Gamefiles loaded.
+[11:17:39.8755][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:17:39.9143][INFO]  ->  Successfully loaded caches
+[11:17:39.9209][INFO]  ->  Press any key to shutdown the server.
+[11:17:40.5821][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:19:22.9538][INFO]  ->  Starting [11:19:22 - Windows]...
+[11:19:23.1932][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:19:23.4424][INFO]  ->  52 Gamefiles loaded.
+[11:19:24.5165][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:19:24.5639][INFO]  ->  Successfully loaded caches
+[11:19:24.5792][INFO]  ->  Press any key to shutdown the server.
+[11:19:25.2367][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:20:22.3849][INFO]  ->  Starting [11:20:22 - Windows]...
+[11:20:22.6698][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:20:23.0070][INFO]  ->  52 Gamefiles loaded.
+[11:20:23.9852][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:20:24.0401][INFO]  ->  Successfully loaded caches
+[11:20:24.0473][INFO]  ->  Press any key to shutdown the server.
+[11:20:24.6926][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:21:52.5202][INFO]  ->  Starting [11:21:52 - Windows]...
+[11:21:52.7334][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:21:53.0143][INFO]  ->  52 Gamefiles loaded.
+[11:21:53.9532][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:21:54.0089][INFO]  ->  Successfully loaded caches
+[11:21:54.0163][INFO]  ->  Press any key to shutdown the server.
+[11:21:54.6757][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:26:21.1958][INFO]  ->  Starting [11:26:21 - Windows]...
+[11:26:21.4437][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:26:21.7141][INFO]  ->  52 Gamefiles loaded.
+[11:26:22.7424][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:26:22.8049][INFO]  ->  Successfully loaded caches
+[11:26:22.8116][INFO]  ->  Press any key to shutdown the server.
+[11:26:23.5293][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:29:48.5921][INFO]  ->  Starting [11:29:48 - Windows]...
+[11:29:48.8030][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:29:49.0152][INFO]  ->  52 Gamefiles loaded.
+[11:29:49.9667][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:29:50.0082][INFO]  ->  Successfully loaded caches
+[11:29:50.0153][INFO]  ->  Press any key to shutdown the server.
+[11:29:50.7019][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:30:53.4432][INFO]  ->  Starting [11:30:53 - Windows]...
+[11:30:53.6358][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:30:53.8537][INFO]  ->  52 Gamefiles loaded.
+[11:30:54.7921][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:30:54.8367][INFO]  ->  Successfully loaded caches
+[11:30:54.8449][INFO]  ->  Press any key to shutdown the server.
+[11:30:55.4950][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:31:21.4603][INFO]  ->  Starting [11:31:21 - Windows]...
+[11:31:21.7374][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:31:22.1207][INFO]  ->  52 Gamefiles loaded.
+[11:31:23.2679][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:31:23.3282][INFO]  ->  Successfully loaded caches
+[11:31:23.3282][INFO]  ->  Press any key to shutdown the server.
+[11:31:23.9966][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:31:45.4429][INFO]  ->  Starting [11:31:45 - Windows]...
+[11:31:45.7529][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:31:46.0584][INFO]  ->  52 Gamefiles loaded.
+[11:31:47.0920][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:31:47.1399][INFO]  ->  Successfully loaded caches
+[11:31:47.1399][INFO]  ->  Press any key to shutdown the server.
+[11:31:47.7797][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:32:08.8074][INFO]  ->  Starting [11:32:08 - Windows]...
+[11:32:09.0629][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:32:09.3669][INFO]  ->  52 Gamefiles loaded.
+[11:32:10.3540][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:32:10.3922][INFO]  ->  Successfully loaded caches
+[11:32:10.3922][INFO]  ->  Press any key to shutdown the server.
+[11:32:11.0486][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:32:31.2738][INFO]  ->  Starting [11:32:31 - Windows]...
+[11:32:31.4817][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:32:31.8027][INFO]  ->  52 Gamefiles loaded.
+[11:32:32.8032][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:32:32.8487][INFO]  ->  Successfully loaded caches
+[11:32:32.8487][INFO]  ->  Press any key to shutdown the server.
+[11:32:38.8858][INFO]  ->  Starting [11:32:38 - Windows]...
+[11:32:39.1129][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:32:39.4218][INFO]  ->  52 Gamefiles loaded.
+[11:32:40.4055][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:32:40.4454][INFO]  ->  Successfully loaded caches
+[11:32:40.4535][INFO]  ->  Press any key to shutdown the server.
+[11:32:41.1360][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:32:58.5325][INFO]  ->  Starting [11:32:58 - Windows]...
+[11:32:58.8209][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:32:59.1902][INFO]  ->  52 Gamefiles loaded.
+[11:33:00.1685][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:33:00.2076][INFO]  ->  Successfully loaded caches
+[11:33:00.2155][INFO]  ->  Press any key to shutdown the server.
+[11:33:04.7230][INFO]  ->  Starting [11:33:04 - Windows]...
+[11:33:04.9310][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:33:05.2296][INFO]  ->  52 Gamefiles loaded.
+[11:33:06.2685][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:33:06.3100][INFO]  ->  Successfully loaded caches
+[11:33:06.3100][INFO]  ->  Press any key to shutdown the server.
+[11:33:06.9293][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:34:13.0240][INFO]  ->  Starting [11:34:13 - Windows]...
+[11:34:13.2457][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:34:13.4788][INFO]  ->  52 Gamefiles loaded.
+[11:34:14.4590][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:34:14.4954][INFO]  ->  Successfully loaded caches
+[11:34:14.5033][INFO]  ->  Press any key to shutdown the server.
+[11:34:15.1527][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:34:42.1690][INFO]  ->  Starting [11:34:42 - Windows]...
+[11:34:42.5570][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:34:42.8413][INFO]  ->  52 Gamefiles loaded.
+[11:34:43.7569][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:34:43.7993][INFO]  ->  Successfully loaded caches
+[11:34:43.7993][INFO]  ->  Press any key to shutdown the server.
+[11:34:44.4527][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:38:13.9621][INFO]  ->  Starting [11:38:13 - Windows]...
+[11:38:14.1786][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:38:14.4430][INFO]  ->  52 Gamefiles loaded.
+[11:38:15.4204][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:38:15.4802][INFO]  ->  Successfully loaded caches
+[11:38:15.4900][INFO]  ->  Press any key to shutdown the server.
+[11:38:16.1359][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:38:53.3790][INFO]  ->  Starting [11:38:53 - Windows]...
+[11:38:53.6766][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:38:53.9634][INFO]  ->  52 Gamefiles loaded.
+[11:38:54.8913][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:38:54.9340][INFO]  ->  Successfully loaded caches
+[11:38:54.9406][INFO]  ->  Press any key to shutdown the server.
+[11:38:55.6125][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:39:12.3935][INFO]  ->  Starting [11:39:12 - Windows]...
+[11:39:12.6816][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:39:12.9833][INFO]  ->  52 Gamefiles loaded.
+[11:39:13.9971][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:39:14.0403][INFO]  ->  Successfully loaded caches
+[11:39:14.0482][INFO]  ->  Press any key to shutdown the server.
+[11:39:14.7130][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:40:31.8647][INFO]  ->  Starting [11:40:31 - Windows]...
+[11:40:32.1317][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:40:32.3606][INFO]  ->  52 Gamefiles loaded.
+[11:40:33.3064][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:40:33.3443][INFO]  ->  Successfully loaded caches
+[11:40:33.3443][INFO]  ->  Press any key to shutdown the server.
+[11:40:33.9841][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:41:20.4279][INFO]  ->  Starting [11:41:20 - Windows]...
+[11:41:20.7593][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:41:21.0611][INFO]  ->  52 Gamefiles loaded.
+[11:41:22.0355][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:41:22.1156][INFO]  ->  Successfully loaded caches
+[11:41:22.1397][INFO]  ->  Press any key to shutdown the server.
+[11:41:22.9302][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:42:04.8183][INFO]  ->  Starting [11:42:04 - Windows]...
+[11:42:05.0423][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:42:05.4051][INFO]  ->  52 Gamefiles loaded.
+[11:42:06.4597][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:42:06.5328][INFO]  ->  Successfully loaded caches
+[11:42:06.5328][INFO]  ->  Press any key to shutdown the server.
+[11:42:07.1930][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:42:48.1300][INFO]  ->  Starting [11:42:48 - Windows]...
+[11:42:48.4609][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:42:48.8003][INFO]  ->  52 Gamefiles loaded.
+[11:42:49.7568][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:42:49.8305][INFO]  ->  Successfully loaded caches
+[11:42:49.8305][INFO]  ->  Press any key to shutdown the server.
+[11:42:50.5067][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:43:19.3714][INFO]  ->  Starting [11:43:19 - Windows]...
+[11:43:19.6099][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:43:19.9803][INFO]  ->  52 Gamefiles loaded.
+[11:43:21.1487][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:43:21.1892][INFO]  ->  Successfully loaded caches
+[11:43:21.1892][INFO]  ->  Press any key to shutdown the server.
+[11:43:21.8369][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:43:55.8094][INFO]  ->  Starting [11:43:55 - Windows]...
+[11:43:56.0405][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:43:56.3231][INFO]  ->  52 Gamefiles loaded.
+[11:43:57.2805][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:43:57.3243][INFO]  ->  Successfully loaded caches
+[11:43:57.3316][INFO]  ->  Press any key to shutdown the server.
+[11:43:57.9827][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:48:04.9375][INFO]  ->  Starting [11:48:04 - Windows]...
+[11:48:05.1543][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:48:05.4557][INFO]  ->  52 Gamefiles loaded.
+[11:48:06.4348][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:48:06.4718][INFO]  ->  Successfully loaded caches
+[11:48:06.4718][INFO]  ->  Press any key to shutdown the server.
+[11:48:07.1236][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:50:33.7591][INFO]  ->  Starting [11:50:33 - Windows]...
+[11:50:34.0018][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:50:34.2605][INFO]  ->  52 Gamefiles loaded.
+[11:50:35.2371][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:50:35.2800][INFO]  ->  Successfully loaded caches
+[11:50:35.2800][INFO]  ->  Press any key to shutdown the server.
+[11:50:35.9382][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:52:27.6729][INFO]  ->  Starting [11:52:27 - Windows]...
+[11:52:27.8958][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:52:28.1102][INFO]  ->  52 Gamefiles loaded.
+[11:52:29.0513][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:52:29.1179][INFO]  ->  Successfully loaded caches
+[11:52:29.1244][INFO]  ->  Press any key to shutdown the server.
+[11:52:29.7640][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:53:07.1338][INFO]  ->  Starting [11:53:07 - Windows]...
+[11:53:07.4008][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:53:07.6537][INFO]  ->  52 Gamefiles loaded.
+[11:53:08.6812][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:53:08.7371][INFO]  ->  Successfully loaded caches
+[11:53:08.7530][INFO]  ->  Press any key to shutdown the server.
+[11:53:09.4342][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[11:53:47.0277][INFO]  ->  Starting [11:53:47 - Windows]...
+[11:53:47.3263][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[11:53:47.6302][INFO]  ->  52 Gamefiles loaded.
+[11:53:48.5907][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[11:53:48.6288][INFO]  ->  Successfully loaded caches
+[11:53:48.6393][INFO]  ->  Press any key to shutdown the server.
+[11:53:49.3424][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:05:03.9016][INFO]  ->  Starting [12:05:03 - Windows]...
+[12:05:04.1337][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:05:04.4214][INFO]  ->  52 Gamefiles loaded.
+[12:05:05.3946][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:05:05.4367][INFO]  ->  Successfully loaded caches
+[12:05:05.4367][INFO]  ->  Press any key to shutdown the server.
+[12:05:06.1351][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:07:13.0932][INFO]  ->  Starting [12:07:13 - Windows]...
+[12:07:13.3412][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:07:13.6044][INFO]  ->  52 Gamefiles loaded.
+[12:07:14.5269][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:07:14.5731][INFO]  ->  Successfully loaded caches
+[12:07:14.5802][INFO]  ->  Press any key to shutdown the server.
+[12:07:15.2310][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:09:02.0516][INFO]  ->  Starting [12:09:02 - Windows]...
+[12:09:02.2502][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:09:02.5750][INFO]  ->  52 Gamefiles loaded.
+[12:09:03.5562][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:09:03.5972][INFO]  ->  Successfully loaded caches
+[12:09:03.6078][INFO]  ->  Press any key to shutdown the server.
+[12:09:04.2995][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:09:52.5239][INFO]  ->  Starting [12:09:52 - Windows]...
+[12:09:52.7484][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:09:53.0568][INFO]  ->  52 Gamefiles loaded.
+[12:09:54.0677][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:09:54.1127][INFO]  ->  Successfully loaded caches
+[12:09:54.1223][INFO]  ->  Press any key to shutdown the server.
+[12:09:54.8371][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:10:28.0646][INFO]  ->  Starting [12:10:28 - Windows]...
+[12:10:28.2812][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:10:28.5468][INFO]  ->  52 Gamefiles loaded.
+[12:10:29.5039][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:10:29.5499][INFO]  ->  Successfully loaded caches
+[12:10:29.5641][INFO]  ->  Press any key to shutdown the server.
+[12:10:30.1857][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:13:23.8857][INFO]  ->  Starting [12:13:23 - Windows]...
+[12:13:24.2805][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:13:24.5826][INFO]  ->  52 Gamefiles loaded.
+[12:13:25.6914][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:13:25.7347][INFO]  ->  Successfully loaded caches
+[12:13:25.7347][INFO]  ->  Press any key to shutdown the server.
+[12:13:26.4670][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:13:49.0361][INFO]  ->  Starting [12:13:49 - Windows]...
+[12:13:49.2623][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:13:49.6109][INFO]  ->  52 Gamefiles loaded.
+[12:13:50.6433][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:13:50.6982][INFO]  ->  Successfully loaded caches
+[12:13:50.7049][INFO]  ->  Press any key to shutdown the server.
+[12:13:51.3705][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:18:44.7724][INFO]  ->  Starting [12:18:44 - Windows]...
+[12:18:45.0122][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:18:45.2631][INFO]  ->  52 Gamefiles loaded.
+[12:18:46.2345][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:18:46.2738][INFO]  ->  Successfully loaded caches
+[12:18:46.2807][INFO]  ->  Press any key to shutdown the server.
+[12:18:47.0076][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:20:00.3375][INFO]  ->  Starting [12:20:00 - Windows]...
+[12:20:00.6302][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:20:01.0616][INFO]  ->  52 Gamefiles loaded.
+[12:20:02.0301][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:20:02.0724][INFO]  ->  Successfully loaded caches
+[12:20:02.0793][INFO]  ->  Press any key to shutdown the server.
+[12:20:02.7714][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:20:29.7045][INFO]  ->  Starting [12:20:29 - Windows]...
+[12:20:30.0353][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:20:30.4158][INFO]  ->  52 Gamefiles loaded.
+[12:20:31.5861][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:20:31.6254][INFO]  ->  Successfully loaded caches
+[12:20:31.6254][INFO]  ->  Press any key to shutdown the server.
+[12:20:32.3475][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:21:08.1324][INFO]  ->  Starting [12:21:08 - Windows]...
+[12:21:08.4893][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:21:08.7042][INFO]  ->  52 Gamefiles loaded.
+[12:21:09.6727][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:21:09.7124][INFO]  ->  Successfully loaded caches
+[12:21:09.7203][INFO]  ->  Press any key to shutdown the server.
+[12:21:10.3942][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:22:09.7067][INFO]  ->  Starting [12:22:09 - Windows]...
+[12:22:09.9311][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:22:10.1490][INFO]  ->  52 Gamefiles loaded.
+[12:22:11.0932][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:22:11.1355][INFO]  ->  Successfully loaded caches
+[12:22:11.1430][INFO]  ->  Press any key to shutdown the server.
+[12:22:11.8467][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:22:56.9203][INFO]  ->  Starting [12:22:56 - Windows]...
+[12:22:57.1988][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:22:57.5456][INFO]  ->  52 Gamefiles loaded.
+[12:22:58.6131][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:22:58.6526][INFO]  ->  Successfully loaded caches
+[12:22:58.6598][INFO]  ->  Press any key to shutdown the server.
+[12:22:59.2878][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:24:00.6114][INFO]  ->  Starting [12:24:00 - Windows]...
+[12:24:00.8466][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:24:01.1150][INFO]  ->  52 Gamefiles loaded.
+[12:24:02.0860][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:24:02.1273][INFO]  ->  Successfully loaded caches
+[12:24:02.1273][INFO]  ->  Press any key to shutdown the server.
+[12:24:02.7817][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:27:23.3200][INFO]  ->  Starting [12:27:23 - Windows]...
+[12:27:23.5484][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:27:23.7855][INFO]  ->  52 Gamefiles loaded.
+[12:27:24.7853][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:27:24.8282][INFO]  ->  Successfully loaded caches
+[12:27:24.8282][INFO]  ->  Press any key to shutdown the server.
+[12:27:25.5458][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:29:22.5723][INFO]  ->  Starting [12:29:22 - Windows]...
+[12:29:22.8094][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:29:23.1623][INFO]  ->  52 Gamefiles loaded.
+[12:29:24.1533][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:29:24.1923][INFO]  ->  Successfully loaded caches
+[12:29:24.1923][INFO]  ->  Press any key to shutdown the server.
+[12:29:24.8259][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:31:06.1428][INFO]  ->  Starting [12:31:06 - Windows]...
+[12:31:06.4787][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:31:06.7271][INFO]  ->  52 Gamefiles loaded.
+[12:31:07.6671][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:31:07.7249][INFO]  ->  Successfully loaded caches
+[12:31:07.7321][INFO]  ->  Press any key to shutdown the server.
+[12:31:08.4276][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:31:35.9588][INFO]  ->  Starting [12:31:35 - Windows]...
+[12:31:36.2385][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:31:36.5082][INFO]  ->  52 Gamefiles loaded.
+[12:31:37.4712][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:31:37.5257][INFO]  ->  Successfully loaded caches
+[12:31:37.5353][INFO]  ->  Press any key to shutdown the server.
+[12:31:38.1912][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!
+[12:32:53.9907][INFO]  ->  Starting [12:32:53 - Windows]...
+[12:32:54.2651][INFO]  ->  Fingerprint [v3.377.3] loaded.
+[12:32:54.6068][INFO]  ->  52 Gamefiles loaded.
+[12:32:55.6670][INFO]  ->  Successfully loaded MySql with 5 player(s) & 3 clan(s)
+[12:32:55.7404][INFO]  ->  Successfully loaded caches
+[12:32:55.7468][INFO]  ->  Press any key to shutdown the server.
+[12:32:56.4061][INFO]  ->  Listening on 0.0.0.0:9339. Let's play ClashRoyale!

@@ -591,7 +591,7 @@ namespace ClashRoyale.Logic
 
                     packet.WriteVInt(Home.Arena.Trophies); // Best Season Trophies
                     packet.WriteVInt(Home.Arena.CurrentArena + 1); // Rank
-                    packet.WriteVInt(0); // Trophies??
+                    packet.WriteVInt(1); // Trophies??
                 }
                 else
                 {

@@ -6,11 +6,13 @@ using ClashRoyale.Logic;
 using ClashRoyale.Logic.Home.Decks;
 using ClashRoyale.Utilities.Netty;
 using ClashRoyale.Utilities.Utils;
+using ClashRoyale.Logic.Home.Shop;
 
 namespace ClashRoyale.Protocol.Messages.Server
 {
     public class NpcSectorStateMessage : PiranhaMessage
     {
+
         public NpcSectorStateMessage(Device device) : base(device)
         {
             Id = 21903;

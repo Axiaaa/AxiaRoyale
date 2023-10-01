@@ -130,7 +130,7 @@ namespace ClashRoyale.Logic.Home.Decks
         /// Returns a random card
         /// </summary>
         /// <returns></returns>
-        public Card Random()
+        public static Card Random()
         {
             Card card = null;
 

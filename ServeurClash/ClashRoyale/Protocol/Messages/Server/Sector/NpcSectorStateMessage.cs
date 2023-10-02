@@ -7,6 +7,7 @@ using ClashRoyale.Logic.Home.Decks;
 using ClashRoyale.Utilities.Netty;
 using ClashRoyale.Utilities.Utils;
 using ClashRoyale.Logic.Home.Shop;
+using ClashRoyale.Protocol.Messages.Server.;
 
 namespace ClashRoyale.Protocol.Messages.Server
 {

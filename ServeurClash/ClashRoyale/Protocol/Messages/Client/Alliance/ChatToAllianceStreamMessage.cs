@@ -231,7 +231,7 @@ namespace ClashRoyale.Protocol.Messages.Client.Alliance
                             break;
                         }*/
 
-                   case "/trophies":
+                    case "/trophies":
                         {   
                             Device.Player.Home.Arena.SetTrophies(cmdValue);
 
@@ -243,6 +243,17 @@ namespace ClashRoyale.Protocol.Messages.Client.Alliance
                             }.SendAsync();
                             break;
                         }
+                    case "/rdmdeck":
+                    {
+
+                        bool rdm_deck = true; //Ajoute des randoms 
+                        Console.WriteLine($"[Debug] [C] /rdmdeck has been correctly executed by {Device.Player.Home.Name}, {Device.Player.Home.Id} ");
+                    }
+                    case "/rdmlvl"
+                    {
+                        bool rdm_lvl = true; //Ajoute des randoms 
+                        Console.WriteLine($"[Debug] [C] /rdm_lvl has been correctly executed by {Device.Player.Home.Name}, {Device.Player.Home.Id} ");
+                    }
 
 
                   }

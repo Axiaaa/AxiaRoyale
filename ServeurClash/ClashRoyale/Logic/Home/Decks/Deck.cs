@@ -213,38 +213,68 @@ namespace ClashRoyale.Logic.Home.Decks
         }
 
 
-        public Deck GenerateRandomDeck()
+        public Deck GenerateRandomDeck(bool rdm_deck, bool rdm_lvl)
         {
             Deck randomDeck = new Deck();
+            if (rdm_deck == false)
+                return Device.Player.Home.Deck;
             Random random = new Random();
 
             for (int i = 0; i < 8; i++)
             {
                 var card = Cards.Random(); // Utilisez votre méthode Random() pour obtenir une carte aléatoire.
-                switch (card.CardRarity)
+                if (rdm_lvl == false)
                 {
-                    case Rarity.Rare:
-                        {
-                            card.Level = random.Next(1, 10);
-                            break;
-                        }
-                    case Rarity.Epic:
-                        {
-                            card.Level = random.Next(1, 7);
-                            break;
-                        }
-                    case Rarity.Common:
-                        {
-                            card.Level = random.Next(1, 12);
-                            break;
-                        }
-                    case Rarity.Legendary:
-                        {
-                            card.Level = random.Next(1, 4);
-                            break;
-                        }
+                    switch (card.CardRarity)
+                    {
+                        case Rarity.Rare:
+                            {
+                                card.Level = random.Next(1, 10);
+                                break;
+                            }
+                        case Rarity.Epic:
+                            {
+                                card.Level = random.Next(1, 7);
+                                break;
+                            }
+                        case Rarity.Common:
+                            {
+                                card.Level = random.Next(1, 12);
+                                break;
+                            }
+                        case Rarity.Legendary:
+                            {
+                                card.Level = random.Next(1, 4);
+                                break;
+                            }
+                    }
                 }
-                //card.GlobalId(i * 1000000 + card.InstanceId);
+                else 
+                {
+                    switch (card.CardRarity)
+                    {
+                        case Rarity.Rare:
+                            {
+                                card.Level = 10;
+                                break;
+                            }
+                        case Rarity.Epic:
+                            {
+                                card.Level = 7;
+                                break;
+                            }
+                        case Rarity.Common:
+                            {
+                                card.Level = 12;
+                                break;
+                            }
+                        case Rarity.Legendary:
+                            {
+                                card.Level = 4;
+                                break;
+                            }
+                    }
+                }
                 randomDeck.Add(card); // Ajoutez la carte au deck aléatoire.
             }
 
